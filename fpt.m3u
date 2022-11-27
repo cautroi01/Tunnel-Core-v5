@@ -1,12 +1,5 @@
-#EXTM3U url-tvg="https://bit.ly/epgviet" udp FPT
-#EXTINF:-1 tvg-id="vtv2hd" group-title="world cup 2022" tvg-logo="https://i.imgur.com/KmngEnt.png",VTV2 HD By chú chuột cô đơn 
-udp://@225.1.2.13:30120
-#EXTINF:-1 tvg-id="vtv3hd" group-title="world cup 2022" tvg-logo="https://i.imgur.com/yNiXZri.png",VTV3 HD By chú chuột cô đơn 
-udp://@225.1.2.247:30120
-#EXTINF:-1 tvg-id="vtv5hd" group-title="world cup 2022" tvg-logo="https://i.imgur.com/lOvwbNQ.png",VTV5 HD By chú chuột cô đơn 
-udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="world cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png/150px-Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png",VTV  Cần THƠ  HD By chú chuột cô đơn 
-udp://@225.1.2.245:30120
+#EXTM3U url-tvg="https://bit.ly/epgviet" UDP FPT
+
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png",VTV1 HD
 udp://@225.1.2.249:30120
@@ -26,6 +19,7 @@ udp://@225.1.2.96:30120
 udp://@225.1.2.166:30120
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9e/VTV9_HD.png/640px-VTV9_HD.png",VTV9 HD
 udp://@225.1.1.128:30120
+
 # ------------------VTVCAB ---------------------#
 #EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab1hd", VTVCab1 HD - Vie Giải Trí
 https://856175157.r.vtvcdn.com/ondrm/GIAITRI_TV_HD/m20_index.m3u8
@@ -67,7 +61,8 @@ https://856175157.r.vtvcdn.com/ondrm/BIBI_PLUS_clear/m20_index.m3u8
 https://856175157.r.vtvcdn.com/ondrm/LIFE_TV/m20_index.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab23hd", ON Golf HD
 https://856175157.r.vtvcdn.com/ondrm/THETHAO_GOLF_HD/m30_index.m3u8
-# -------------------kplus-------------------#
+
+# -------------------Kplus-------------------#
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997279692/154dd470053b_640_360.png", K+CINE HD
 udp://@225.1.1.5:30120
 #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997313743/0e069fa6829d_640_360.png", K+LIFE HD
@@ -78,6 +73,7 @@ udp://@225.1.1.73:30120
 udp://@225.1.1.77:30120
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png", K+kids HD
 udp://@225.1.1.76:30120
+
 #-------------------VTC/VOV-------------------#
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD 
 udp://@225.1.2.254:30120
@@ -111,6 +107,7 @@ udp://@225.1.2.88:30120
 udp://@225.1.2.190:30120
 #EXTINF:-1 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://toquoc.mediacdn.vn/zoom/320_200/2018/11/30/vov-1543571451555977547401-crop-1543572036282140511454.png",VÔV TV
 udp://@225.1.2.171:30120
+
 #-------------------HTV/HTVC-------------------#
 #EXTINF:-1 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/BvjmYtr.png",HTV1
 udp://@225.1.1.180:30120
@@ -142,6 +139,7 @@ udp://@225.1.1.174:30120
 udp://@225.1.1.186:30120
 #EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC Plus HD
 udp://@225.1.1.181:30120
+
 #..............THVL...........#
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://img.hplus.com.vn/728x409/banner/2019/07/08/442964-THVL-1HD-460x260.png", Vĩnh Long 1 HD 
 udp://@225.1.1.155:30120
@@ -151,6 +149,7 @@ udp://@225.1.1.154:30120
 udp://@225.1.1.235:30120
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_THVL4_HD.png", Vĩnh Long 4 HD
 udp://@225.1.2.25:30120
+
 #-------------------Thiết yếu-------------------#
 #EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/5qQzerW.png" tvg-id="antvhd",ANTV - An Ninh TV HD
 udp://@225.1.2.169:30120
@@ -162,11 +161,13 @@ udp://@225.1.2.148:30120
 udp://@225.1.2.217:30120
 #EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg" tvg-id="ttxvnhd",TTXVN - Thông Tấn Xã VN HD
 udp://@225.1.1.43:30120
+
 #-------------------HBO-------------------#
 #EXTINF:-1 group-title="HBO" tvg-id="cinemaxhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax HD
 udp://@225.1.2.86:30120
 #EXTINF:-1 group-title="HBO" tvg-id="hbohd" tvg-logo="https://static-stage.tv24.vn/channel/72/HBOHD.png",HBO HD
 udp://@225.1.4.90:30120
+
 #-------------------Địa phương------------------#
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c3/THLC_HD_L%C3%A0o_Cai_2022.png/revision/latest/scale-to-width-down/1562?cb=20220414101947&path-prefix=vi",Lào Cai
 udp://@225.1.1.119:30120
@@ -310,6 +311,7 @@ udp://@225.1.2.173:30120
 udp://@225.1.1.156:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/95/STV1_logo_2017_c%C3%B3_website.png/revision/latest/scale-to-width-down/200?cb=20220625032257&path-prefix=vi",Sóc Trăng
 udp://@225.1.1.159:30120
+
 #-------------------Quốc tế-------------------#
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="animalhd" tvg-logo="https://i.imgur.com/9t7FsCk.png",Animal Planet HD
 udp://@225.1.1.231:30120
@@ -381,6 +383,7 @@ udp://@225.1.2.211:30120
 udp://@225.1.1.196:30120
 #EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/JuELCHc.png",TV5MONDE ASIE HD
 udp://@225.1.1.200:30120
+
 #------------------ Mua sắm -------------------#
 #EXTINF:-1 group-title="Mua Sắm",Đồng Nai 9 Sky Shop
 #udp://@225.1.1.153:30120
@@ -402,6 +405,7 @@ udp://@225.1.1.90:30120
 udp://@225.1.1.224:30120
 #EXTINF:-1 group-title="Mua Sắm",BTV11 TOP Home Shopping
 udp://@225.1.4.84:30120
+
 #-------------------Other-------------------#
 #EXTINF:-1 tvg-id="youtv" group-title="Other" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c3/YouTV_logo.png/revision/latest?cb=20201010125200&path-prefix=vi",YouTV
 udp://@225.1.1.207:30120
@@ -409,6 +413,7 @@ udp://@225.1.1.207:30120
 udp://@225.1.1.245:30120
 #EXTINF:-1 tvg-id="sctv6hd" group-title="Other" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fe/SCTV6_logo_2008.png/revision/latest?cb=20211211011131&path-prefix=vi",SCTV6 HD
 udp://@225.1.1.188:30120
+
 #-------------------FPT Service-------------------#
 #EXTINF:-1 group-title="FPT Service" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",FPT Giới Thiệu Chương Trình
 udp://@225.1.1.2:30120
@@ -418,6 +423,7 @@ udp://@225.1.2.244:30120
 udp://@225.1.1.123:30120
 #EXTINF:-1 group-title="FPT Service" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",quảng cáo 2
 udp://@225.1.1.127:30120
+
 #------------------Sự Kiện thể thao------------------#
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png",FPT 1 SPORTS
 udp://@225.1.1.31:30120
