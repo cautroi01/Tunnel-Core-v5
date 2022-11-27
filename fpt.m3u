@@ -198,9 +198,9 @@ udp://@225.1.1.5:30120
 udp://@225.1.1.6:30120
 #EXTINF:-1 tvg-id="ksport1hd" tvg-name="K+ SPORT1 HD (DRM)" tvg-logo="https://i.imgur.com/IaG3BQQ.png" group-title="KÊNH K+",K+PC HD (DRM)
 udp://@225.1.1.73:30120
-#:-1 tvg-id="ksport2hd" tvg-name="K+ SPORT2 HD (DRM)" tvg-logo="https://i.imgur.com/ND1139A.png" group-title="KÊNH K+",K+PM HD (DRM)
+#EXTINF:-1 tvg-id="ksport2hd" tvg-name="K+ SPORT2 HD (DRM)" tvg-logo="https://i.imgur.com/ND1139A.png" group-title="KÊNH K+",K+PM HD (DRM)
 udp://@225.1.1.77:30120
-#:-1 tvg-id="kkisdhd" tvg-name="K+ KISD HD (DRM)" tvg-logo="https://i.imgur.com/ND1139A.png" group-title="KÊNH K+",K+PM HD (DRM)
+#EXTINF:-1 tvg-id="kkisdhd" tvg-name="K+ KISD HD (DRM)" tvg-logo="https://i.imgur.com/ND1139A.png" group-title="KÊNH K+",K+PM HD (DRM)
 udp://@225.1.1.76:30120
 #EXTINF:-1 tvg-id="hanoicab4_mov" tvg-name="MOV - Hanoicab 4" tvg-logo="" group-title="KÊNH HANOICAB",MOV - Hanoicab 4
 udp://@225.1.1.206:30120
