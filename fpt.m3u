@@ -1,21 +1,21 @@
 #EXTM3U sonhp 2019-09-17 17:58:52
-#EXTINF:-1 tvg-id="vtv1" tvg-name="VTV1 HD" tvg-logo="https://i.imgur.com/te4Rb7f.png" group-title="KÊNH VTV",VTV1 HD
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" tvg-logo="https://i.imgur.com/te4Rb7f.png" group-title="KÊNH VTV",VTV1 HD
 udp://@225.1.2.249:30120
-#EXTINF:-1 tvg-id="vtv2" tvg-name="VTV2 HD" tvg-logo="https://i.imgur.com/KmngEnt.png" group-title="KÊNH VTV",VTV2 HD
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 HD" tvg-logo="https://i.imgur.com/KmngEnt.png" group-title="KÊNH VTV",VTV2 HD
 udp://@225.1.2.13:30120
-#EXTINF:-1 tvg-id="vtv3" tvg-name="VTV3 HD" tvg-logo="https://i.imgur.com/yNiXZri.png" group-title="KÊNH VTV",VTV3 HD
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3 HD" tvg-logo="https://i.imgur.com/yNiXZri.png" group-title="KÊNH VTV",VTV3 HD
 udp://@225.1.2.247:30120
-#EXTINF:-1 tvg-id="vtv4" tvg-name="VTV4 HD" tvg-logo="https://i.imgur.com/WG3Wi0q.png" group-title="KÊNH VTV",VTV4 HD
+#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 HD" tvg-logo="https://i.imgur.com/WG3Wi0q.png" group-title="KÊNH VTV",VTV4 HD
 udp://@225.1.2.20:30120
-#EXTINF:-1 tvg-id="vtv5" tvg-name="VTV5 HD" tvg-logo="https://i.imgur.com/lOvwbNQ.png" group-title="KÊNH VTV",VTV5 HD
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 HD" tvg-logo="https://i.imgur.com/lOvwbNQ.png" group-title="KÊNH VTV",VTV5 HD
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv6" tvg-name="VTV6 HD" tvg-logo="https://i.imgur.com/QI4bFvX.png" group-title="KÊNH VTV",VTV6 HD
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6 HD" tvg-logo="https://i.imgur.com/QI4bFvX.png" group-title="KÊNH VTV",VTV6 HD
 udp://@225.1.2.245:30120
-#EXTINF:-1 tvg-id="vtv7" tvg-name="VTV7 HD" tvg-logo="https://i.imgur.com/z8m5lWk.png" group-title="KÊNH VTV",VTV7 HD
+#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 HD" tvg-logo="https://i.imgur.com/z8m5lWk.png" group-title="KÊNH VTV",VTV7 HD
 udp://@225.1.2.96:30120
-#EXTINF:-1 tvg-id="vtv8" tvg-name="VTV8 HD" tvg-logo="https://i.imgur.com/mIjvO6X.png" group-title="KÊNH VTV",VTV8 HD
+#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8 HD" tvg-logo="https://i.imgur.com/mIjvO6X.png" group-title="KÊNH VTV",VTV8 HD
 udp://@225.1.2.166:30120
-#EXTINF:-1 tvg-id="vtv9" tvg-name="VTV9 HD" tvg-logo="https://i.imgur.com/GDP5zVb.png" group-title="KÊNH VTV",VTV9 HD
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 HD" tvg-logo="https://i.imgur.com/GDP5zVb.png" group-title="KÊNH VTV",VTV9 HD
 udp://@225.1.1.128:30120
 #EXTINF:-1 tvg-id="axn" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/5Gtp7WP.png" group-title="KÊNH QUỐC TẾ",AXN HD
 udp://@225.1.2.225:30120
@@ -192,14 +192,16 @@ udp://@225.1.1.202:30120
 udp://@225.1.1.200:30120
 #EXTINF:-1 tvg-id="france_24" tvg-name="France 24" tvg-logo="https://i.imgur.com/YTlPk6Q.png" group-title="KÊNH QUỐC TẾ",France 24
 udp://@225.1.2.211:30120
-#EXTINF:-1 tvg-id="kplus1hd" tvg-name="K+1 HD (DRM)" tvg-logo="https://i.imgur.com/4DqLcOH.png" group-title="KÊNH K+",K+1 HD (DRM)
+#EXTINF:-1 tvg-id="kcinehd" tvg-name="K+1 CINE HD (DRM)" tvg-logo="https://i.imgur.com/4DqLcOH.png" group-title="KÊNH K+",K+1 HD (DRM)
 udp://@225.1.1.5:30120
-#EXTINF:-1 tvg-id="kplusnshd" tvg-name="K+NS HD (DRM)" tvg-logo="https://i.imgur.com/4kKphEM.png" group-title="KÊNH K+",K+NS HD (DRM)
+#EXTINF:-1 tvg-id="kplifehd" tvg-name="K+ LIFE HD (DRM)" tvg-logo="https://i.imgur.com/4kKphEM.png" group-title="KÊNH K+",K+NS HD (DRM)
 udp://@225.1.1.6:30120
-#EXTINF:-1 tvg-id="kpluspchd" tvg-name="K+PC HD (DRM)" tvg-logo="https://i.imgur.com/IaG3BQQ.png" group-title="KÊNH K+",K+PC HD (DRM)
+#EXTINF:-1 tvg-id="ksport1hd" tvg-name="K+ SPORT1 HD (DRM)" tvg-logo="https://i.imgur.com/IaG3BQQ.png" group-title="KÊNH K+",K+PC HD (DRM)
 udp://@225.1.1.73:30120
-#EXTINF:-1 tvg-id="kpluspmhd" tvg-name="K+PM HD (DRM)" tvg-logo="https://i.imgur.com/ND1139A.png" group-title="KÊNH K+",K+PM HD (DRM)
+#:-1 tvg-id="ksport2hd" tvg-name="K+ SPORT2 HD (DRM)" tvg-logo="https://i.imgur.com/ND1139A.png" group-title="KÊNH K+",K+PM HD (DRM)
 udp://@225.1.1.77:30120
+#:-1 tvg-id="kkisdhd" tvg-name="K+ KISD HD (DRM)" tvg-logo="https://i.imgur.com/ND1139A.png" group-title="KÊNH K+",K+PM HD (DRM)
+udp://@225.1.1.76:30120
 #EXTINF:-1 tvg-id="hanoicab4_mov" tvg-name="MOV - Hanoicab 4" tvg-logo="" group-title="KÊNH HANOICAB",MOV - Hanoicab 4
 udp://@225.1.1.206:30120
 #EXTINF:-1 tvg-id="hanoicab2_youtv" tvg-name="YouTV - Hanoicab 2" tvg-logo="" group-title="KÊNH HANOICAB",YouTV - Hanoicab 2
