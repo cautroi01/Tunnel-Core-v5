@@ -11,7 +11,7 @@ udp://@225.1.2.247:30120
 udp://@225.1.2.20:30120
 #EXTINF:-1 tvg-id="vtv5hd"  group-title="VTV" tvg-logo="https://tivifree.ml/logo/VTV5.png", VTV5 HD
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv6-+hd" group-title="VTV" tvg-logo="https://tivifree.ml/logo/VTVCanTho.png", VTV Cần Thơ HD
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://tivifree.ml/logo/VTVCanTho.png", VTV Cần Thơ HD
 udp://@225.1.2.245:30120
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://tivifree.ml/logo/VTV7.png", VTV7 HD
 udp://@225.1.2.96:30120
