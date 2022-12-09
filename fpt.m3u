@@ -47,9 +47,11 @@ https://api.vthanhtivi.pw/udp/225.1.2.167:30120
 https://856175157.r.vtvcdn.com/ondrm/STYLE_TV_HD/m30_index.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab13hd" tvg-logo="https://tivifree.ml/logo/VTVCab13.png", Hyundai Homeshopping
 https://vips-livecdn.fptplay.net/sdb/vtvhyundai_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab14hd" tvg-logo="https://tivifree.ml/logo/VTVCab14.png", VShopping
-#EXTVLCOPT:http-user-agent="MRKim"
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.tivifree.ml/getlink/vieon/vtvcab14-v-shopping
+
 #EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab15hd" tvg-logo="https://tivifree.ml/logo/VTVCab15_new.png", ON Music
 https://856175157.r.vtvcdn.com/ondrm/M_CHANNEL/m20_index.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab16hd" tvg-logo="https://tivifree.ml/logo/VTVCab16.png", ON Football
