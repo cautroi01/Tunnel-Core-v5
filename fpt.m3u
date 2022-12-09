@@ -23,7 +23,7 @@ udp://@225.1.1.128:30120
 # ------------------VTVCAB ---------------------#
 #EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab1hd" tvg-logo="https://tivifree.ml/logo/VTVCab01.png", Vie Giải Trí
 https://856175157.r.vtvcdn.com/ondrm/GIAITRI_TV_HD/m20_index.m3u8
-#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab2hd" tvg-logo="https://tivifree.ml/logo/VTVCab02.png", ON Phim Việt
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab2hd" tvg-logo="https://tivifree.ml/logo/VTVCab02_new.png", ON Phim Việt
 https://856175157.r.vtvcdn.com/ondrm/PHIM_VIET/m20_index.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab3hd" tvg-logo="https://tivifree.ml/logo/VTVCab03.png", ON Sports
 https://856175157.r.vtvcdn.com/ondrm/THETHAO_HD/m30_index.m3u8
