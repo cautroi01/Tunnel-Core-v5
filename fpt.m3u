@@ -117,7 +117,7 @@ udp://@225.1.2.195:30120
 udp://@225.1.2.194:30120
 #EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC11.png",VTC11 - Kids & Family TV
 udp://@225.1.2.193:30120
-#EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC12",VTC12
+#EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC12.png",VTC12
 udp://@225.1.2.51:30120
 #EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC13.png",VTC13 HD
 udp://@225.1.2.250:30120
