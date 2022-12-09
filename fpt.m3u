@@ -115,15 +115,15 @@ udp://@225.1.2.196:30120
 udp://@225.1.2.195:30120
 #EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC10.png",VTC10 HD
 udp://@225.1.2.194:30120
-#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC11",VTC11 - Kids & Family TV
+#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC11.png",VTC11 - Kids & Family TV
 udp://@225.1.2.193:30120
 #EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC12",VTC12
 udp://@225.1.2.51:30120
-#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC13",VTC13 HD
+#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC13.png",VTC13 HD
 udp://@225.1.2.250:30120
-#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC14",VTC14 HD
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC14.png",VTC14 HD
 udp://@225.1.2.88:30120
-#EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC16",VTC16 HD
+#EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC16.png",VTC16 HD
 udp://@225.1.2.190:30120
 #EXTINF:-1 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/ThoiSu-VOV.png",VOV TV
 udp://@225.1.2.171:30120
