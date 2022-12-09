@@ -47,11 +47,9 @@ https://api.vthanhtivi.pw/udp/225.1.2.167:30120
 https://856175157.r.vtvcdn.com/ondrm/STYLE_TV_HD/m30_index.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab13hd" tvg-logo="https://tivifree.ml/logo/VTVCab13.png", Hyundai Homeshopping
 https://vips-livecdn.fptplay.net/sdb/vtvhyundai_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab14hd" tvg-logo="https://tivifree.ml/logo/VTVCab14.png", VShopping
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.tivifree.ml/getlink/vieon/vtvcab14-v-shopping
-
 #EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab15hd" tvg-logo="https://tivifree.ml/logo/VTVCab15_new.png", ON Music
 https://856175157.r.vtvcdn.com/ondrm/M_CHANNEL/m20_index.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab16hd" tvg-logo="https://tivifree.ml/logo/VTVCab16.png", ON Football
@@ -129,63 +127,63 @@ udp://@225.1.2.190:30120
 udp://@225.1.2.171:30120
 
 #-------------------HTV/HTVC-------------------#
-#EXTINF:-1 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/BvjmYtr.png",HTV1
+#EXTINF:-1 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTV1.png",HTV1
 udp://@225.1.1.180:30120
-#EXTINF:-1 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/12qnM2B.png",HTV2 HD
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTV2.png",HTV2 HD
 udp://@225.1.1.193:30120
-#EXTINF:-1 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/8GOohTX.png",HTV3
+#EXTINF:-1 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTV3.png",HTV3
 udp://@225.1.1.178:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/JBNgrHU.png",HTV Key
+#EXTINF:-1 tvg-id="htv4" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTVKEY.png",HTV Key
 udp://@225.1.1.177:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/EPZzYTx.png",HTV7 HD
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTV7.png",HTV7 HD
 udp://@225.1.1.192:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/vMxj1BX.png",HTV9 HD
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTV9.png",HTV9 HD
 udp://@225.1.1.190:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/gSnnXza.png",HTV THỂ THAO HD
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTVTHETHAO.png",HTV THỂ THAO HD
 udp://@225.1.1.165:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/pQYcNMU.jpg",HTVC Ca Nhạc HD
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HCTVCANHAC.png",HTVC Ca Nhạc HD
 udp://@225.1.1.185:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/mvQ37T0.jpg",HTVC Du Lịch HD
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTVCDLCS.png",HTVC Du lịch Cuộc sống HD
 udp://@225.1.1.166:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/tDOkgfV.jpg",HTVC Gia Đình HD
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTVCGIADINH.png",HTVC Gia Đình HD
 udp://@225.1.1.170:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/pNG3Fri.png",HTVC Phim HD
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTVCPHIM.png",HTVC Phim HD
 udp://@225.1.1.184:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/diEuUuw.jpg",HTVC Phụ Nữ HD
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTVCPHUNU.png",HTVC Phụ Nữ HD
 udp://@225.1.1.171:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://imgur.com/LFL1x49.jpg",HTVC Thuần Việt 
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTVCTHUANVIET.png",HTVC Thuần Việt 
 udp://@225.1.1.174:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://imgur.com/Y1dU8EG.jpg",HTVC Thuần Việt HD 
+#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTVCThuanVietHD.png",HTVC Thuần Việt HD 
 udp://@225.1.1.186:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC Plus HD
+#EXTINF:-1 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTVCPlus.png",HTVC Plus HD
 udp://@225.1.1.181:30120
 
 #..............THVL...........#
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://img.hplus.com.vn/728x409/banner/2019/07/08/442964-THVL-1HD-460x260.png", Vĩnh Long 1 HD 
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://tivifree.ml/logo/TH-THVL1.png", Vĩnh Long 1 HD 
 udp://@225.1.1.155:30120
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://img.hplus.com.vn/728x409/banner/2019/07/08/968605-THVL-2HD-460x260.png", Vĩnh Long 2 HD
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://tivifree.ml/logo/TH-THVL2.png", Vĩnh Long 2 HD
 udp://@225.1.1.154:30120
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_THVL3_HD.png", Vĩnh Long 3 HD 
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://tivifree.ml/logo/TH-THVL3.png", Vĩnh Long 3 HD 
 udp://@225.1.1.235:30120
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_THVL4_HD.png", Vĩnh Long 4 HD
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://tivifree.ml/logo/TH-THVL4.png", Vĩnh Long 4 HD
 udp://@225.1.2.25:30120
 
 #-------------------Thiết yếu-------------------#
-#EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/5qQzerW.png" tvg-id="antvhd",ANTV - An Ninh TV HD
+#EXTINF:-1 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://tivifree.ml/logo/ThoiSu-ANTV.png",ANTV - An Ninh TV HD
 udp://@225.1.2.169:30120
-#EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/rswzxzG.png",Nhân Dân TV HD
+#EXTINF:-1 tvg-id="nhandan" group-title="Kênh TH Thiết yếu" tvg-logo="https://tivifree.ml/logo/ThoiSu-nhandan.png",Nhân Dân TV HD
 udp://@225.1.1.91:30120
-#EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/IqErj7W.png",Quốc Hội TV HD
+#EXTINF:-1 tvg-id="quochoi" group-title="Kênh TH Thiết yếu" tvg-logo="https://tivifree.ml/logo/ThoiSu-QUOCHOI.png",Quốc Hội TV HD
 udp://@225.1.2.148:30120
-#EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg" tvg-id="qpvnhd",QPTV - Quốc Phòng VN HD
+#EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://tivifree.ml/logo/ThoiSu-QPVN.png",QPTV - Quốc Phòng VN HD
 udp://@225.1.2.217:30120
-#EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg" tvg-id="ttxvnhd",TTXVN - Thông Tấn Xã VN HD
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://tivifree.ml/logo/ThoiSu-VNEWS.png",VNews - TTXVN HD
 udp://@225.1.1.43:30120
 
 #-------------------HBO-------------------#
-#EXTINF:-1 group-title="HBO" tvg-id="cinemaxhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax HD
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://tivifree.ml/logo/QT-cinemax.png",Cinemax HD
 udp://@225.1.2.86:30120
-#EXTINF:-1 group-title="HBO" tvg-id="hbohd" tvg-logo="https://static-stage.tv24.vn/channel/72/HBOHD.png",HBO HD
+#EXTINF:-1 tvg-id="hbohd" group-title="HBO" tvg-logo="https://tivifree.ml/logo/QT-hbo.png",HBO HD
 udp://@225.1.4.90:30120
 
 #-------------------Địa phương------------------#
