@@ -95,37 +95,37 @@ udp://@225.1.1.77:30120
 udp://@225.1.1.76:30120
 
 #-------------------VTC/VOV-------------------#
-#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD 
+#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC1.png", VTC1 HD 
 udp://@225.1.2.254:30120
-#EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://imgur.com/1FccD2h.png",VTC2
+#EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC2.png",VTC2
 udp://@225.1.2.202:30120
-#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD
+#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC3.png",VTC3 HD
 udp://@225.1.2.251:30120
-#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD
+#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC4.png",VTC4 HD
 udp://@225.1.2.200:30120
-#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://imgur.com/IDkKiEa.png",VTC5
+#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC5.png",VTC5
 udp://@225.1.2.199:30120
-#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://imgur.com/rTxMJIB.png",VTC6
+#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC6.png",VTC6
 udp://@225.1.2.198:30120
-#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://imgur.com/sDWf2Q1.png",VTC7 - Today TV
+#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC7.png",VTC7 - Today TV
 udp://@225.1.2.197:30120
-#EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://imgur.com/cQ8Ygbk.png",VTC8
+#EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC8.png",VTC8
 udp://@225.1.2.196:30120
-#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/vtc/images/c/c3/VTC9_logo.png/revision/latest?cb=20200808151126&path-prefix=vi",VTC9 HD
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC9.png",VTC9 HD
 udp://@225.1.2.195:30120
-#EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/06/VTC10_HD_logo_2019.png/revision/latest/scale-to-width-down/1200?cb=20220709110419&path-prefix=vi",VTC10 HD
+#EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC10.png",VTC10 HD
 udp://@225.1.2.194:30120
-#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://imgur.com/RoTy0Ly.png",VTC11 - Kids & Family TV
+#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC11",VTC11 - Kids & Family TV
 udp://@225.1.2.193:30120
-#EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://imgur.com/qAOy5Cd.png",VTC12
+#EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC12",VTC12
 udp://@225.1.2.51:30120
-#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 HD
+#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC13",VTC13 HD
 udp://@225.1.2.250:30120
-#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://imgur.com/jlvmYDY.png",VTC14 HD
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC14",VTC14 HD
 udp://@225.1.2.88:30120
-#EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 HD
+#EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC16",VTC16 HD
 udp://@225.1.2.190:30120
-#EXTINF:-1 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://toquoc.mediacdn.vn/zoom/320_200/2018/11/30/vov-1543571451555977547401-crop-1543572036282140511454.png",VÔV TV
+#EXTINF:-1 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/ThoiSu-VOV.png",VOV TV
 udp://@225.1.2.171:30120
 
 #-------------------HTV/HTVC-------------------#
