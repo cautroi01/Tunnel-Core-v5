@@ -266,7 +266,7 @@ udp://@225.1.1.151:30120
 udp://@225.1.1.130:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/BRT_HD.png",Vũng Tàu
 udp://@225.1.2.175:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tien-giang_165655755655.png",Tiền Giang
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:THTG_Logo.png",Tiền Giang
 udp://@225.1.2.170:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3d/THTV_HD_Logo.png/revision/latest/scale-to-width-down/1200?cb=20220403052316&path-prefix=vi",Trà Vinh
 udp://@225.1.2.172:30120
