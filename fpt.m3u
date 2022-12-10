@@ -194,7 +194,7 @@ udp://@225.1.4.90:30120
 udp://@225.1.1.119:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-dienbien.png",Điện Biên
 udp://@225.1.1.74:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-tuyenquang.png",Tuyên Quang
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-TUYENQUANG.png",Tuyên Quang
 udp://@225.1.2.188:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-thainguyen.png",Thái Nguyên
 udp://@225.1.2.179:30120
@@ -206,7 +206,7 @@ udp://@225.1.2.165:30120
 udp://@225.1.1.164:30120
 #EXTINF:-1 group-title="Địa phương"  tvg-logo="https://tivifree.ml/logo/TH-langson.png",Lạng Sơn
 udp://@225.1.1.160:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-caobang.png",Cao Bằng
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-caobang1.png",Cao Bằng
 udp://@225.1.1.102:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-baccan.png",Bắc Kạn
 udp://@225.1.1.126:30120
@@ -236,11 +236,11 @@ udp://@225.1.1.147:30120
 udp://@225.1.1.146:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-quangnam.png",Quảng Nam
 udp://@225.1.2.50:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-quangngai.png",Quảng Ngãi
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-QuangNgai.png",Quảng Ngãi
 udp://@225.1.2.174:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-binhdinh.png",Bình Định
 udp://@225.1.1.145:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-phuyen.png",Phú Yên
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-PhuYen.png",Phú Yên
 udp://@225.1.2.58:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-khanhhoa.png",Khánh Hòa
 udp://@225.1.1.133:30120
@@ -250,7 +250,7 @@ udp://@225.1.1.124:30120
 udp://@225.1.1.36:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-gialai.png",Gia Lai
 udp://@225.1.2.176:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-lamdong.png",Lâm Đồng
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-LAMDONG.png",Lâm Đồng
 udp://@225.1.2.177:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-BTV1.png",Bình Dương 1
 udp://@225.1.1.150:30120
@@ -264,25 +264,25 @@ udp://@225.1.1.29:30120
 udp://@225.1.1.152:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-dongnai2.png",Đồng Nai 2
 udp://@225.1.1.151:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-tayninh.png",Tây Ninh
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-TAYNINH11.png",Tây Ninh
 udp://@225.1.1.130:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-vuongtau.png",Vũng Tàu
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-BRVT.png",Vũng Tàu
 udp://@225.1.2.175:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-tiengiang.png",Tiền Giang
 udp://@225.1.2.170:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-travinh.png",Trà Vinh
 udp://@225.1.2.172:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-haugiang.png",Hậu Giang
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-HauGiang.png",Hậu Giang
 udp://@225.1.1.157:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-kiengiang.png",Kiên Giang
 udp://@225.1.2.182:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-baclieu.png",Bạc Liêu
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-baclieutv.png",Bạc Liêu
 udp://@225.1.1.61:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-camau.png",Cà Mau
 udp://@225.1.1.104:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-cantho.png",Cần Thơ
 udp://@225.1.1.132:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-dongthap.png",Đồng Tháp
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-THDT.png",Đồng Tháp
 udp://@225.1.1.163:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-THDT-MienTay.png",THĐT2 Miền Tây HD
 udp://@225.1.1.210:30120
@@ -298,7 +298,7 @@ udp://@225.1.1.62:30120
 udp://@225.1.1.63:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-haiduong.png",Hải Dương
 udp://@225.1.1.158:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-huongyen.png",Hưng Yên
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-hungyen.png",Hưng Yên
 udp://@225.1.1.118:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-namdinh.png",Nam Định
 udp://@225.1.1.120:30120
@@ -316,19 +316,19 @@ udp://@225.1.1.161:30120
 udp://@225.1.2.178:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-daklak.png",Đắk Lắk
 udp://@225.1.1.64:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-binhphuc1.png",Bình Phước 1
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-BPTV1.png",Bình Phước 1
 udp://@225.1.2.23:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-binhphuc2.png",Bình Phước 2
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-BPTV2.png",Bình Phước 2
 udp://@225.1.2.38:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-binhduong.png",Bình Dương
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-BTV6.png",Bình Dương
 udp://@225.1.1.223:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-longan.png",Long An
 udp://@225.1.1.162:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-angiang.png",An Giang
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-AnGiang.png",An Giang
 udp://@225.1.2.173:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-bentre.png",Bến Tre
 udp://@225.1.1.156:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-soctrang.png",Sóc Trăng
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-soctrang1.png",Sóc Trăng
 udp://@225.1.1.159:30120
 
 #-------------------Quốc tế-------------------#
