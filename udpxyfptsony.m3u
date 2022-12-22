@@ -2,23 +2,25 @@
 
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://tivifree.ml/logo/VTV1.png", VTV1 HD
-http://udpxy.ddns.net/udp/225.1.2.249:30120
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://tivifree.ml/logo/VTV2.png", VTV2 HD 
-http://udpxy.ddns.net/udp/225.1.2.13:30120
+#EXTVLCOPT:http-user-agent="MRKim"
+http://udpxy.ddns.net/225.1.2.249:30120
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://tivifree.ml/logo/VTV2.png", VTV2 HD
+#EXTVLCOPT:http-user-agent="MRKim"
+http://udpxy.ddns.net/225.1.2.13:30120
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://tivifree.ml/logo/VTV3.png", VTV3 HD
-http://udpxy.ddns.net/udp/225.1.2.247:30120
+http://udpxy.ddns.net/225.1.2.247:30120
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://tivifree.ml/logo/VTV4.png", VTV4 HD
-http://udpxy.ddns.net/udp/225.1.2.20:30120
+http://udpxy.ddns.net/225.1.2.20:30120
 #EXTINF:-1 tvg-id="vtv5hd"  group-title="VTV" tvg-logo="https://tivifree.ml/logo/VTV5.png", VTV5 HD
-http://udpxy.ddns.net/udp/225.1.1.131:30120
+http://udpxy.ddns.net/225.1.1.131:30120
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://tivifree.ml/logo/VTVCanTho.png", VTV Cần Thơ HD
-http://udpxy.ddns.net/udp/225.1.2.245:30120
+http://udpxy.ddns.net/225.1.2.245:30120
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://tivifree.ml/logo/VTV7.png", VTV7 HD
-http://udpxy.ddns.net/udp/225.1.2.96:30120
+http://udpxy.ddns.net/225.1.2.96:30120
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://tivifree.ml/logo/VTV8.png", VTV8 HD
-http://udpxy.ddns.net/udp/225.1.2.166:30120
+http://udpxy.ddns.net/225.1.2.166:30120
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://tivifree.ml/logo/VTV9.png", VTV9 HD
-http://udpxy.ddns.net/udp/225.1.1.128:30120
+http://udpxy.ddns.net/225.1.1.128:30120
 
 # ------------------VTVCAB ---------------------#
 #EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab1hd" tvg-logo="https://tivifree.ml/logo/VTVCab01.png", Vie Giải Trí
@@ -83,403 +85,402 @@ https://livevlive.vtvcab.vn/hls/OS_ONGOLFTA/sc-gaFEAA/m30_index.m3u8
 
 # -------------------Kplus-------------------#
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://tivifree.ml/logo/KplusCine.png", K+CINE HD
-http://udpxy.ddns.net/udp/225.1.1.5:30120
+http://udpxy.ddns.net/225.1.1.5:30120
 #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://tivifree.ml/logo/KplusLife.png", K+LIFE HD
-http://udpxy.ddns.net/udp/225.1.1.6:30120
+http://udpxy.ddns.net/225.1.1.6:30120
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://tivifree.ml/logo/KplusSport1.png", K+SPORT1 HD
-http://udpxy.ddns.net/udp/225.1.1.73:30120
+http://udpxy.ddns.net/225.1.1.73:30120
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://tivifree.ml/logo/KplusSport2.png", K+SPORT2 HD
-http://udpxy.ddns.net/udp/225.1.1.77:30120
+http://udpxy.ddns.net/225.1.1.77:30120
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://tivifree.ml/logo/KplusKids.png", K+kids HD
-http://udpxy.ddns.net/udp/225.1.1.76:30120
+http://udpxy.ddns.net/225.1.1.76:30120
 
 #-------------------VTC/VOV-------------------#
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC1.png", VTC1 HD 
-http://udpxy.ddns.net/udp/225.1.2.254:30120
+http://udpxy.ddns.net/225.1.2.254:30120
 #EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC2.png",VTC2
-http://udpxy.ddns.net/udp/225.1.2.202:30120
+http://udpxy.ddns.net/225.1.2.202:30120
 #EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC3.png",VTC3 HD
-http://udpxy.ddns.net/udp/225.1.2.251:30120
+http://udpxy.ddns.net/225.1.2.251:30120
 #EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC4.png",VTC4 HD
-http://udpxy.ddns.net/udp/225.1.2.200:30120
+http://udpxy.ddns.net/225.1.2.200:30120
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC5.png",VTC5
-http://udpxy.ddns.net/udp/225.1.2.199:30120
+http://udpxy.ddns.net/225.1.2.199:30120
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC6.png",VTC6
-http://udpxy.ddns.net/udp/225.1.2.198:30120
+http://udpxy.ddns.net/225.1.2.198:30120
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC7.png",VTC7 - Today TV
-http://udpxy.ddns.net/udp/225.1.2.197:30120
+http://udpxy.ddns.net/225.1.2.197:30120
 #EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC8.png",VTC8
-http://udpxy.ddns.net/udp/225.1.2.196:30120
+http://udpxy.ddns.net/225.1.2.196:30120
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC9.png",VTC9 HD
-http://udpxy.ddns.net/udp/225.1.2.195:30120
+http://udpxy.ddns.net/225.1.2.195:30120
 #EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC10.png",VTC10 HD
-http://udpxy.ddns.net/udp/225.1.2.194:30120
+http://udpxy.ddns.net/225.1.2.194:30120
 #EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC11.png",VTC11 - Kids & Family TV
-http://udpxy.ddns.net/udp/225.1.2.193:30120
+http://udpxy.ddns.net/225.1.2.193:30120
 #EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC12.png",VTC12
-http://udpxy.ddns.net/udp/225.1.2.51:30120
+http://udpxy.ddns.net/225.1.2.51:30120
 #EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC13.png",VTC13 HD
-http://udpxy.ddns.net/udp/225.1.2.250:30120
+http://udpxy.ddns.net/225.1.2.250:30120
 #EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC14.png",VTC14 HD
-http://udpxy.ddns.net/udp/225.1.2.88:30120
+http://udpxy.ddns.net/225.1.2.88:30120
 #EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/VTC16.png",VTC16 HD
-http://udpxy.ddns.net/udp/225.1.2.190:30120
+http://udpxy.ddns.net/225.1.2.190:30120
 #EXTINF:-1 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://tivifree.ml/logo/ThoiSu-VOV.png",VOV TV
-http://udpxy.ddns.net/udp/225.1.2.171:30120
+http://udpxy.ddns.net/225.1.2.171:30120
 
 #-------------------HTV/HTVC-------------------#
 #EXTINF:-1 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTV1.png",HTV1
-http://udpxy.ddns.net/udp/225.1.1.180:30120
+http://udpxy.ddns.net/225.1.1.180:30120
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTV2.png",HTV2 HD
-http://udpxy.ddns.net/udp/225.1.1.193:30120
+http://udpxy.ddns.net/225.1.1.193:30120
 #EXTINF:-1 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTV3.png",HTV3
-http://udpxy.ddns.net/udp/225.1.1.178:30120
+http://udpxy.ddns.net/225.1.1.178:30120
 #EXTINF:-1 tvg-id="htv4" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTVKEY.png",HTV Key
-http://udpxy.ddns.net/udp/225.1.1.177:30120
+http://udpxy.ddns.net/225.1.1.177:30120
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTV7.png",HTV7 HD
-http://udpxy.ddns.net/udp/225.1.1.192:30120
+http://udpxy.ddns.net/225.1.1.192:30120
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTV9.png",HTV9 HD
-http://udpxy.ddns.net/udp/225.1.1.190:30120
+http://udpxy.ddns.net/225.1.1.190:30120
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTVTHETHAO.png",HTV THỂ THAO HD
-http://udpxy.ddns.net/udp/225.1.1.165:30120
+http://udpxy.ddns.net/225.1.1.165:30120
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HCTVCANHAC.png",HTVC Ca Nhạc HD
-http://udpxy.ddns.net/udp/225.1.1.185:30120
+http://udpxy.ddns.net/225.1.1.185:30120
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTVCDLCS.png",HTVC Du lịch Cuộc sống HD
-http://udpxy.ddns.net/udp/225.1.1.166:30120
+http://udpxy.ddns.net/225.1.1.166:30120
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTVCGIADINH.png",HTVC Gia Đình HD
-http://udpxy.ddns.net/udp/225.1.1.170:30120
+http://udpxy.ddns.net/225.1.1.170:30120
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTVCPHIM.png",HTVC Phim HD
-http://udpxy.ddns.net/udp/225.1.1.184:30120
+http://udpxy.ddns.net/225.1.1.184:30120
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTVCPHUNU.png",HTVC Phụ Nữ HD
-http://udpxy.ddns.net/udp/225.1.1.171:30120
+http://udpxy.ddns.net/225.1.1.171:30120
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTVCTHUANVIET.png",HTVC Thuần Việt 
-http://udpxy.ddns.net/udp/225.1.1.174:30120
+http://udpxy.ddns.net/225.1.1.174:30120
 #EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTVCThuanVietHD.png",HTVC Thuần Việt HD 
-http://udpxy.ddns.net/udp/225.1.1.186:30120
+http://udpxy.ddns.net/225.1.1.186:30120
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://tivifree.ml/logo/HTVCPlus.png",HTVC Plus HD
-http://udpxy.ddns.net/udp/225.1.1.181:30120
+http://udpxy.ddns.net/225.1.1.181:30120
 
 #..............THVL...........#
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://tivifree.ml/logo/TH-THVL1.png", Vĩnh Long 1 HD 
-http://udpxy.ddns.net/udp/225.1.1.155:30120
+http://udpxy.ddns.net/225.1.1.155:30120
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://tivifree.ml/logo/TH-THVL2.png", Vĩnh Long 2 HD
-http://udpxy.ddns.net/udp/225.1.1.154:30120
+http://udpxy.ddns.net/225.1.1.154:30120
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://tivifree.ml/logo/TH-THVL3.png", Vĩnh Long 3 HD 
-http://udpxy.ddns.net/udp/225.1.1.235:30120
+http://udpxy.ddns.net/225.1.1.235:30120
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://tivifree.ml/logo/TH-THVL4.png", Vĩnh Long 4 HD
-http://udpxy.ddns.net/udp/225.1.2.25:30120
+http://udpxy.ddns.net/225.1.2.25:30120
 
 #-------------------Thiết yếu-------------------#
 #EXTINF:-1 tvg-id="antvhd" group-title="Kênh TH Thiết Yếu" tvg-logo="https://tivifree.ml/logo/ThoiSu-ANTV.png",ANTV - An Ninh TV HD
-http://udpxy.ddns.net/udp/225.1.2.169:30120
+http://udpxy.ddns.net/225.1.2.169:30120
 #EXTINF:-1 tvg-id="nhandan" group-title="Kênh TH Thiết Yếu" tvg-logo="https://tivifree.ml/logo/ThoiSu-nhandan.png",Nhân Dân TV HD
-http://udpxy.ddns.net/udp/225.1.1.91:30120
+http://udpxy.ddns.net/225.1.1.91:30120
 #EXTINF:-1 tvg-id="quochoi" group-title="Kênh TH Thiết Yếu" tvg-logo="https://tivifree.ml/logo/ThoiSu-QUOCHOI.png",Quốc Hội TV HD
-http://udpxy.ddns.net/udp/225.1.2.148:30120
+http://udpxy.ddns.net/225.1.2.148:30120
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh TH Thiết Yếu" tvg-logo="https://tivifree.ml/logo/ThoiSu-QPVN.png",QPTV - Quốc Phòng VN HD
-http://udpxy.ddns.net/udp/225.1.2.217:30120
+http://udpxy.ddns.net/225.1.2.217:30120
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="Kênh TH Thiết Yếu" tvg-logo="https://tivifree.ml/logo/ThoiSu-VNEWS.png",VNews - TTXVN HD
-http://udpxy.ddns.net/udp/225.1.1.43:30120
+http://udpxy.ddns.net/225.1.1.43:30120
 #EXTINF:-1 group-title="Kênh TH Thiết Yếu" tvg-logo="https://tivifree.ml/logo/ThoiSu-AnVien.png",An Viên HD
-http://udpxy.ddns.net/udp/225.1.2.189:30120
+http://udpxy.ddns.net/225.1.2.189:30120
 
 #-------------------HBO-------------------#
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://tivifree.ml/logo/QT-cinemax.png",Cinemax HD
-http://udpxy.ddns.net/udp/225.1.2.86:30120
+http://udpxy.ddns.net/225.1.2.86:30120
 #EXTINF:-1 tvg-id="hbohd" group-title="HBO" tvg-logo="https://tivifree.ml/logo/QT-hbo.png",HBO HD
-http://udpxy.ddns.net/udp/225.1.4.90:30120
+http://udpxy.ddns.net/225.1.4.90:30120
 
 #-------------------Địa phương------------------#
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-laocai.png",Lào Cai
-http://udpxy.ddns.net/udp/225.1.1.119:30120
+http://udpxy.ddns.net/225.1.1.119:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-dienbien.png",Điện Biên
-http://udpxy.ddns.net/udp/225.1.1.74:30120
+http://udpxy.ddns.net/225.1.1.74:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-TUYENQUANG.png",Tuyên Quang
-http://udpxy.ddns.net/udp/225.1.2.188:30120
+http://udpxy.ddns.net/225.1.2.188:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-thainguyen.png",Thái Nguyên
-http://udpxy.ddns.net/udp/225.1.2.179:30120
+http://udpxy.ddns.net/225.1.2.179:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-hoabinh.png",Hòa Bình
-http://udpxy.ddns.net/udp/225.1.2.168:30120
+http://udpxy.ddns.net/225.1.2.168:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-phutho.png",Phú Thọ
-http://udpxy.ddns.net/udp/225.1.2.165:30120
+http://udpxy.ddns.net/225.1.2.165:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-bacgiang.png",Bắc Giang
-http://udpxy.ddns.net/udp/225.1.1.164:30120
+http://udpxy.ddns.net/225.1.1.164:30120
 #EXTINF:-1 group-title="Địa phương"  tvg-logo="https://tivifree.ml/logo/TH-langson.png",Lạng Sơn
-http://udpxy.ddns.net/udp/225.1.1.160:30120
+http://udpxy.ddns.net/225.1.1.160:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-caobang1.png",Cao Bằng
-http://udpxy.ddns.net/udp/225.1.1.102:30120
+http://udpxy.ddns.net/225.1.1.102:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-baccan.png",Bắc Kạn
-http://udpxy.ddns.net/udp/225.1.1.126:30120
+http://udpxy.ddns.net/225.1.1.126:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-quangninh1.png",Quảng Ninh 1
-http://udpxy.ddns.net/udp/225.1.2.181:30120
+http://udpxy.ddns.net/225.1.2.181:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-quangninh3.png",Quảng Ninh 3
-http://udpxy.ddns.net/udp/225.1.2.180:30120
+http://udpxy.ddns.net/225.1.2.180:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-bacninh.png",Bắc Ninh
-http://udpxy.ddns.net/udp/225.1.1.40:30120
+http://udpxy.ddns.net/225.1.1.40:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-HANOI1.png",Hà Nội 1 HD
-http://udpxy.ddns.net/udp/225.1.2.186:30120
+http://udpxy.ddns.net/225.1.2.186:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-HANOI2.png",Hà Nội 2 HD
-#http://udpxy.ddns.net/udp/225.1.1.125:30120
+#http://udpxy.ddns.net/225.1.1.125:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-haiphong.png",Hải Phòng
-http://udpxy.ddns.net/udp/225.1.1.44:30120
+http://udpxy.ddns.net/225.1.1.44:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-ninhbinh.png",Ninh Bình
-http://udpxy.ddns.net/udp/225.1.2.185:30120
+http://udpxy.ddns.net/225.1.2.185:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-nghean.png",Nghệ An
-http://udpxy.ddns.net/udp/225.1.2.183:30120
+http://udpxy.ddns.net/225.1.2.183:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-hatinh.png",Hà Tĩnh
-http://udpxy.ddns.net/udp/225.1.1.75:30120
+http://udpxy.ddns.net/225.1.1.75:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-quangtri.png",Quảng Trị
-http://udpxy.ddns.net/udp/225.1.1.117:30120
+http://udpxy.ddns.net/225.1.1.117:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-danang1.png",Đà Nẵng 1
-http://udpxy.ddns.net/udp/225.1.1.147:30120
+http://udpxy.ddns.net/225.1.1.147:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-danang2.png",Đà Nẵng 2
-http://udpxy.ddns.net/udp/225.1.1.146:30120
+http://udpxy.ddns.net/225.1.1.146:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-quangnam.png",Quảng Nam
-http://udpxy.ddns.net/udp/225.1.2.50:30120
+http://udpxy.ddns.net/225.1.2.50:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-QuangNgai.png",Quảng Ngãi
-http://udpxy.ddns.net/udp/225.1.2.174:30120
+http://udpxy.ddns.net/225.1.2.174:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-binhdinh.png",Bình Định
-http://udpxy.ddns.net/udp/225.1.1.145:30120
+http://udpxy.ddns.net/225.1.1.145:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-PhuYen.png",Phú Yên
-http://udpxy.ddns.net/udp/225.1.2.58:30120
+http://udpxy.ddns.net/225.1.2.58:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-khanhhoa.png",Khánh Hòa
-http://udpxy.ddns.net/udp/225.1.1.133:30120
+http://udpxy.ddns.net/225.1.1.133:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-binhthuan.png",Bình Thuận
-http://udpxy.ddns.net/udp/225.1.1.124:30120
+http://udpxy.ddns.net/225.1.1.124:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-kontum.png",Kon Tum
-http://udpxy.ddns.net/udp/225.1.1.36:30120
+http://udpxy.ddns.net/225.1.1.36:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-gialai.png",Gia Lai
-http://udpxy.ddns.net/udp/225.1.2.176:30120
+http://udpxy.ddns.net/225.1.2.176:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-LAMDONG.png",Lâm Đồng
-http://udpxy.ddns.net/udp/225.1.2.177:30120
+http://udpxy.ddns.net/225.1.2.177:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-BTV1.png",Bình Dương 1
-http://udpxy.ddns.net/udp/225.1.1.150:30120
+http://udpxy.ddns.net/225.1.1.150:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-BTV2.png",Bình Dương 2
-http://udpxy.ddns.net/udp/225.1.1.149:30120
+http://udpxy.ddns.net/225.1.1.149:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-BTV3.png",Bình Dương 3
-http://udpxy.ddns.net/udp/225.1.2.22:30120
+http://udpxy.ddns.net/225.1.2.22:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-BTV4.png",Bình Dương 4
-http://udpxy.ddns.net/udp/225.1.1.29:30120
+http://udpxy.ddns.net/225.1.1.29:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-dongnai1.png",Đồng Nai 1
-http://udpxy.ddns.net/udp/225.1.1.152:30120
+http://udpxy.ddns.net/225.1.1.152:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-dongnai2.png",Đồng Nai 2
-http://udpxy.ddns.net/udp/225.1.1.151:30120
+http://udpxy.ddns.net/225.1.1.151:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-TAYNINH11.png",Tây Ninh
-http://udpxy.ddns.net/udp/225.1.1.130:30120
+http://udpxy.ddns.net/225.1.1.130:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-BRVT.png",Vũng Tàu
-http://udpxy.ddns.net/udp/225.1.2.175:30120
+http://udpxy.ddns.net/225.1.2.175:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-tiengiang.png",Tiền Giang
-http://udpxy.ddns.net/udp/225.1.2.170:30120
+http://udpxy.ddns.net/225.1.2.170:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-travinh.png",Trà Vinh
-http://udpxy.ddns.net/udp/225.1.2.172:30120
+http://udpxy.ddns.net/225.1.2.172:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-HauGiang.png",Hậu Giang
-http://udpxy.ddns.net/udp/225.1.1.157:30120
+http://udpxy.ddns.net/225.1.1.157:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-kiengiang.png",Kiên Giang
-http://udpxy.ddns.net/udp/225.1.2.182:30120
+http://udpxy.ddns.net/225.1.2.182:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-baclieutv.png",Bạc Liêu
-http://udpxy.ddns.net/udp/225.1.1.61:30120
+http://udpxy.ddns.net/225.1.1.61:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-camau.png",Cà Mau
-http://udpxy.ddns.net/udp/225.1.1.104:30120
+http://udpxy.ddns.net/225.1.1.104:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-cantho.png",Cần Thơ
-http://udpxy.ddns.net/udp/225.1.1.132:30120
+http://udpxy.ddns.net/225.1.1.132:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-THDT.png",Đồng Tháp
-http://udpxy.ddns.net/udp/225.1.1.163:30120
+http://udpxy.ddns.net/225.1.1.163:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-THDT-MienTay.png",THĐT2 Miền Tây HD
-http://udpxy.ddns.net/udp/225.1.1.210:30120
+http://udpxy.ddns.net/225.1.1.210:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-yenbai.png",Yên Bái
-http://udpxy.ddns.net/udp/225.1.1.39:30120
+http://udpxy.ddns.net/225.1.1.39:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-laichau.png",Lai Châu
-http://udpxy.ddns.net/udp/225.1.2.36:30120
+http://udpxy.ddns.net/225.1.2.36:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-sonla.png",Sơn La
-http://udpxy.ddns.net/udp/225.1.1.98:30120
+http://udpxy.ddns.net/225.1.1.98:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-hagiang.png",Hà Giang
-http://udpxy.ddns.net/udp/225.1.1.62:30120
+http://udpxy.ddns.net/225.1.1.62:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-hanam.png",Hà Nam
-http://udpxy.ddns.net/udp/225.1.1.63:30120
+http://udpxy.ddns.net/225.1.1.63:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-haiduong.png",Hải Dương
-http://udpxy.ddns.net/udp/225.1.1.158:30120
+http://udpxy.ddns.net/225.1.1.158:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-hungyen.png",Hưng Yên
-http://udpxy.ddns.net/udp/225.1.1.118:30120
+http://udpxy.ddns.net/225.1.1.118:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-namdinh.png",Nam Định
-http://udpxy.ddns.net/udp/225.1.1.120:30120
+http://udpxy.ddns.net/225.1.1.120:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-thaibinh.png",Thái Bình
-http://udpxy.ddns.net/udp/225.1.1.99:30120
+http://udpxy.ddns.net/225.1.1.99:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-vinhphuc.png",Vĩnh Phúc
-http://udpxy.ddns.net/udp/225.1.2.99:30120
+http://udpxy.ddns.net/225.1.2.99:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-thanhhoa.png",Thanh Hóa
-http://udpxy.ddns.net/udp/225.1.2.184:30120
+http://udpxy.ddns.net/225.1.2.184:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-quangbinh.png",Quảng Bình
-http://udpxy.ddns.net/udp/225.1.2.164:30120
+http://udpxy.ddns.net/225.1.2.164:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-hue.png",Huế
-http://udpxy.ddns.net/udp/225.1.1.161:30120
+http://udpxy.ddns.net/225.1.1.161:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-ninhthuan.png",Ninh Thuận
-http://udpxy.ddns.net/udp/225.1.2.178:30120
+http://udpxy.ddns.net/225.1.2.178:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-daklak.png",Đắk Lắk
-http://udpxy.ddns.net/udp/225.1.1.64:30120
+http://udpxy.ddns.net/225.1.1.64:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-BPTV1.png",Bình Phước 1
-http://udpxy.ddns.net/udp/225.1.2.23:30120
+http://udpxy.ddns.net/225.1.2.23:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-BPTV2.png",Bình Phước 2
-http://udpxy.ddns.net/udp/225.1.2.38:30120
+http://udpxy.ddns.net/225.1.2.38:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-BTV6.png",Bình Dương
-http://udpxy.ddns.net/udp/225.1.1.223:30120
+http://udpxy.ddns.net/225.1.1.223:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-longan.png",Long An
-http://udpxy.ddns.net/udp/225.1.1.162:30120
+http://udpxy.ddns.net/225.1.1.162:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-AnGiang.png",An Giang
-http://udpxy.ddns.net/udp/225.1.2.173:30120
+http://udpxy.ddns.net/225.1.2.173:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-bentre.png",Bến Tre
-http://udpxy.ddns.net/udp/225.1.1.156:30120
+http://udpxy.ddns.net/225.1.1.156:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-soctrang1.png",Sóc Trăng
-http://udpxy.ddns.net/udp/225.1.1.159:30120
+http://udpxy.ddns.net/225.1.1.159:30120
 
 #-------------------Quốc tế-------------------#
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-AnimalPlanet.png",Animal Planet HD
-http://udpxy.ddns.net/udp/225.1.1.231:30120
+http://udpxy.ddns.net/225.1.1.231:30120
 #EXTINF:-1 tvg-id="animaxhd" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-Animax.png",Animax HD
-http://udpxy.ddns.net/udp/225.1.1.135:30120
+http://udpxy.ddns.net/225.1.1.135:30120
 #EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế"  tvg-logo="https://tivifree.ml/logo/QT-afn.png",Asian Food Network HD
-http://udpxy.ddns.net/udp/225.1.1.198:30120
+http://udpxy.ddns.net/225.1.1.198:30120
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-AXN.png",AXN HD
-http://udpxy.ddns.net/udp/225.1.2.225:30120
+http://udpxy.ddns.net/225.1.2.225:30120
 #EXTINF:-1 tvg-id="babytvhd" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-BabyTV.png",Baby TV HD
-http://udpxy.ddns.net/udp/225.1.2.146:30120
+http://udpxy.ddns.net/225.1.2.146:30120
 #EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-BBCCbeebies.png",BBC CbeeBies HD
-http://udpxy.ddns.net/udp/225.1.1.134:30120
+http://udpxy.ddns.net/225.1.1.134:30120
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-BBCEarth.png",BBC Earth HD
-http://udpxy.ddns.net/udp/225.1.2.24:30120
+http://udpxy.ddns.net/225.1.2.24:30120
 #EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-BOOMERANG.png",Boomerang HD
-http://udpxy.ddns.net/udp/225.1.1.138:30120
+http://udpxy.ddns.net/225.1.1.138:30120
 #EXTINF:-1 tvg-id="blueant" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-BlueAnt.png",Blue Ant Entertainment HD
-http://udpxy.ddns.net/udp/225.1.1.203:30120
+http://udpxy.ddns.net/225.1.1.203:30120
 #EXTINF:-1 tvg-id="BlueAntExt" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-BlueAntExt.png",Blue Ant Extreme HD
-http://udpxy.ddns.net/udp/225.1.1.204:30120
+http://udpxy.ddns.net/225.1.1.204:30120
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-CartoonNetwork.png",Cartoon Network HD
-http://udpxy.ddns.net/udp/225.1.2.231:30120
+http://udpxy.ddns.net/225.1.2.231:30120
 #EXTINF:-1 tvg-id="davincihd" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-DaVinci.png",Da Vinci HD
-http://udpxy.ddns.net/udp/225.1.1.197:30120
+http://udpxy.ddns.net/225.1.1.197:30120
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-DiscoveryAsiaHD.png",Discovery Asia HD
-http://udpxy.ddns.net/udp/225.1.2.223:30120
+http://udpxy.ddns.net/225.1.2.223:30120
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-Discovery.png",Discovery Channel HD
-http://udpxy.ddns.net/udp/225.1.1.238:30120
+http://udpxy.ddns.net/225.1.1.238:30120
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-DreamWorksChannelAsia.png",Dreamworks Channel Asia HD
-http://udpxy.ddns.net/udp/225.1.1.136:30120
+http://udpxy.ddns.net/225.1.1.136:30120
 #EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-DW.png",DW HD
-http://udpxy.ddns.net/udp/225.1.1.46:30120
+http://udpxy.ddns.net/225.1.1.46:30120
 #EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-kix.png",KIX HD
-http://udpxy.ddns.net/udp/225.1.2.144:30120
+http://udpxy.ddns.net/225.1.2.144:30120
 #EXTINF:-1 tvg-id="ngchd" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-NationalGeographic.png",National Geographic HD
-http://udpxy.ddns.net/udp/225.1.2.235:30120
+http://udpxy.ddns.net/225.1.2.235:30120
 #EXTINF:-1 tvg-id="ngwhd" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-NatGeoWild.png",Nat Geo Wild HD
-http://udpxy.ddns.net/udp/225.1.1.211:30120
+http://udpxy.ddns.net/225.1.1.211:30120
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-BBCLifestyle.png",BBC Lifestyle HD
-http://udpxy.ddns.net/udp/225.1.2.52:30120
+http://udpxy.ddns.net/225.1.2.52:30120
 #EXTINF:-1 tvg-id="NHKWorld" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-NHKWorld.png",NHK World HD
-http://udpxy.ddns.net/udp/225.1.1.47:30120
+http://udpxy.ddns.net/225.1.1.47:30120
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-Outdoor.png",Outdoor Channel HD
-http://udpxy.ddns.net/udp/225.1.2.215:30120
+http://udpxy.ddns.net/225.1.2.215:30120
 #EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-TCL.png",TLC HD
-http://udpxy.ddns.net/udp/225.1.1.236:30120
+http://udpxy.ddns.net/225.1.1.236:30120
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-WarnerTV.png",Warner TV HD
-http://udpxy.ddns.net/udp/225.1.1.139:30120
+http://udpxy.ddns.net/225.1.1.139:30120
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-CNN.png",CNN HD
-http://udpxy.ddns.net/udp/225.1.1.242:30120
+http://udpxy.ddns.net/225.1.1.242:30120
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-CMW.png",Cinema World HD
-http://udpxy.ddns.net/udp/225.1.1.142:30120
+http://udpxy.ddns.net/225.1.1.142:30120
 #EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-ABCAusatralia.png",ABC Australia HD
-http://udpxy.ddns.net/udp/225.1.2.21:30120
+http://udpxy.ddns.net/225.1.2.21:30120
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-Arirang.png",Arirang
-http://udpxy.ddns.net/udp/225.1.1.201:30120
+http://udpxy.ddns.net/225.1.1.201:30120
 #EXTINF:-1 tvg-id="babyfirst" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-babyfirst.png",Baby First
-http://udpxy.ddns.net/udp/225.1.1.137:30120
+http://udpxy.ddns.net/225.1.1.137:30120
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-bbcworldnews.png",BBC World News HD
-http://udpxy.ddns.net/udp/225.1.2.74:30120
+http://udpxy.ddns.net/225.1.2.74:30120
 #EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-CNA.png",CNA HD
-http://udpxy.ddns.net/udp/225.1.1.202:30120
+http://udpxy.ddns.net/225.1.1.202:30120
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-CNBC.png",CNBC
-http://udpxy.ddns.net/udp/225.1.1.227:30120
+http://udpxy.ddns.net/225.1.1.227:30120
 #EXTINF:-1 tvg-id="france24eng"  group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-France24.png",France 24 HD
-http://udpxy.ddns.net/udp/225.1.2.211:30120
+http://udpxy.ddns.net/225.1.2.211:30120
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-KBSWorld.png",KBS World HD
-http://udpxy.ddns.net/udp/225.1.1.196:30120
+http://udpxy.ddns.net/225.1.1.196:30120
 #EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://tivifree.ml/logo/QT-TV5Monde.png",TV5MONDE ASIE HD
-http://udpxy.ddns.net/udp/225.1.1.200:30120
+http://udpxy.ddns.net/225.1.1.200:30120
 
 #------------------ Mua sắm -------------------#
 #EXTINF:-1 group-title="Mua Sắm",Đồng Nai 9 Sky Shop
-#http://udpxy.ddns.net/udp/225.1.1.153:30120
+#http://udpxy.ddns.net/225.1.1.153:30120
 #EXTINF:-1 tvg-id="vtvcab11hd" group-title="Mua Sắm" tvg-logo="https://tivifree.ml/logo/VTVCab11.png",VTVCab11 GS SHOP
-http://udpxy.ddns.net/udp/225.1.2.167:30120
+http://udpxy.ddns.net/225.1.2.167:30120
 #EXTINF:-1 tvg-id="vtvcab13hd" group-title="Mua Sắm" tvg-logo="https://tivifree.ml/logo/VTVCab13.png",VTVCab13 VTV Hyundai Homeshopping
-http://udpxy.ddns.net/udp/225.1.1.122:30120
+http://udpxy.ddns.net/225.1.1.122:30120
 #EXTINF:-1 tvg-id="vtvcab13hd" group-title="Mua Sắm" tvg-logo="https://tivifree.ml/logo/VTVCab13.png",VTVCab13 VTV Hyundai Homeshopping
-http://udpxy.ddns.net/udp/225.1.4.79:30120
+http://udpxy.ddns.net/225.1.4.79:30120
 #EXTINF:-1 tvg-id="sctv10hd" group-title="Mua Sắm" tvg-logo="https://tivifree.ml/logo/sctv10.png",SCTV10 Home Shopping
-http://udpxy.ddns.net/udp/225.1.2.37:30120
+http://udpxy.ddns.net/225.1.2.37:30120
 #EXTINF:-1 tvg-id="htvcgsshop" group-title="Mua Sắm" tvg-logo="https://tivifree.ml/logo/HTVCVGSSHOP.png",HTVC VGS Home Shopping
-http://udpxy.ddns.net/udp/225.1.1.172:30120
+http://udpxy.ddns.net/225.1.1.172:30120
 #EXTINF:-1 tvg-id="htvcgsshop" group-title="Mua Sắm" tvg-logo="https://tivifree.ml/logo/HTVCVGSSHOP.png",HTVC VGS Home Shopping
-http://udpxy.ddns.net/udp/225.1.4.89:30120
+http://udpxy.ddns.net/225.1.4.89:30120
 #EXTINF:-1 tvg-id="btv6quehuong" group-title="Mua Sắm" tvg-logo="https://tivifree.ml/logo/BTV6QUEHUONG.png",BTV6 Quê Hương Homeshopping
-http://udpxy.ddns.net/udp/225.1.1.90:30120
+http://udpxy.ddns.net/225.1.1.90:30120
 #EXTINF:-1 tvg-id="btv11top" group-title="Mua Sắm" tvg-logo="https://tivifree.ml/logo/BTV11TOP.png",BTV11 TOP Home Shopping
-http://udpxy.ddns.net/udp/225.1.1.224:30120
+http://udpxy.ddns.net/225.1.1.224:30120
 #EXTINF:-1 tvg-id="btv11top" group-title="Mua Sắm" tvg-logo="https://tivifree.ml/logo/BTV11TOP.png",BTV11 TOP Home Shopping
-http://udpxy.ddns.net/udp/225.1.4.84:30120
+http://udpxy.ddns.net/225.1.4.84:30120
 
 #-------------------Other-------------------#
 #EXTINF:-1 tvg-id="youtv" group-title="Other" tvg-logo="https://tivifree.ml/logo/TH-hanoicab2.png",YouTV
-http://udpxy.ddns.net/udp/225.1.1.207:30120
+http://udpxy.ddns.net/225.1.1.207:30120
 #EXTINF:-1 tvg-id="mtv" group-title="Other" tvg-logo="https://tivifree.ml/logo/MTV.png",MTV
-http://udpxy.ddns.net/udp/225.1.1.245:30120
+http://udpxy.ddns.net/225.1.1.245:30120
 #EXTINF:-1 tvg-id="sctv6hd" group-title="Other" tvg-logo="https://tivifree.ml/logo/sctv6.png",SCTV6 HD
-http://udpxy.ddns.net/udp/225.1.1.188:30120
+http://udpxy.ddns.net/225.1.1.188:30120
 
 #-------------------FPT Service-------------------#
 #EXTINF:-1 group-title="FPT Service" tvg-logo="https://tivifree.ml/logo/FPTService.png",FPT Giới Thiệu Chương Trình
-http://udpxy.ddns.net/udp/225.1.1.2:30120
+http://udpxy.ddns.net/225.1.1.2:30120
 #EXTINF:-1 group-title="FPT Service" tvg-logo="https://tivifree.ml/logo/FPTService.png",Pladio
-http://udpxy.ddns.net/udp/225.1.2.244:30120
+http://udpxy.ddns.net/225.1.2.244:30120
 #EXTINF:-1 group-title="FPT Service" tvg-logo="https://tivifree.ml/logo/FPTService.png",Quảng cáo 1
-http://udpxy.ddns.net/udp/225.1.1.123:30120
+http://udpxy.ddns.net/225.1.1.123:30120
 #EXTINF:-1 group-title="FPT Service" tvg-logo="https://tivifree.ml/logo/FPTService.png",Quảng cáo 2
-http://udpxy.ddns.net/udp/225.1.1.127:30120
+http://udpxy.ddns.net/225.1.1.127:30120
 
 #------------------Sự Kiện thể thao------------------#
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.ml/logo/FPT-Sport.png",FPT 1 SPORTS
-http://udpxy.ddns.net/udp/225.1.1.31:30120
+http://udpxy.ddns.net/225.1.1.31:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.ml/logo/FPT-Sport.png",FPT 2 SPORTS
-http://udpxy.ddns.net/udp/225.1.1.28:30120
+http://udpxy.ddns.net/225.1.1.28:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.ml/logo/FPT-Sport.png",FPT 3 SPORTS
-http://udpxy.ddns.net/udp/225.1.1.52:30120
+http://udpxy.ddns.net/225.1.1.52:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.ml/logo/FPT-Sport.png",FPT 4 SPORTS
-http://udpxy.ddns.net/udp/225.1.1.54:30120
+http://udpxy.ddns.net/225.1.1.54:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.ml/logo/FPT-Sport.png",FPT 5 SPORTS
-http://udpxy.ddns.net/udp/225.1.1.50:30120
+http://udpxy.ddns.net/225.1.1.50:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.ml/logo/FPT-Sport.png",FPT 6 SPORTS
-http://udpxy.ddns.net/udp/225.1.1.53:30120
+http://udpxy.ddns.net/225.1.1.53:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.ml/logo/FPT-Sport.png",FPT 7 SPORTS
-http://udpxy.ddns.net/udp/225.1.1.51:30120
+http://udpxy.ddns.net/225.1.1.51:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.ml/logo/FPT-Sport.png",FPT 8 SPORTS
-http://udpxy.ddns.net/udp/225.1.1.48:30120
+http://udpxy.ddns.net/225.1.1.48:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.ml/logo/FPT-Sport.png",FPT 9 SPORTS
-http://udpxy.ddns.net/udp/225.1.1.49:30120
+http://udpxy.ddns.net/225.1.1.49:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.ml/logo/FPT-Sport.png",FPT 10 SPORTS
-http://udpxy.ddns.net/udp/225.1.1.55:30120
+http://udpxy.ddns.net/225.1.1.55:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.ml/logo/FPT-Sport.png",FPT 11 SPORTS
-http://udpxy.ddns.net/udp/225.1.1.27:30120
+http://udpxy.ddns.net/225.1.1.27:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.ml/logo/FPT-Sport.png",FPT 12 SPORTS
-http://udpxy.ddns.net/udp/225.1.1.56:30120
+http://udpxy.ddns.net/225.1.1.56:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.ml/logo/FPT-Sport.png",FPT 13 SPORTS
-http://udpxy.ddns.net/udp/225.1.1.100:30120
+http://udpxy.ddns.net/225.1.1.100:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.ml/logo/FPT-Sport.png",FPT 14 SPORTS
-http://udpxy.ddns.net/udp/225.1.1.58:30120
+http://udpxy.ddns.net/225.1.1.58:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.ml/logo/FPT-Sport.png",FPT 15 SPORTS
-http://udpxy.ddns.net/udp/225.1.1.95:30120
+http://udpxy.ddns.net/225.1.1.95:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.ml/logo/FPT-Sport.png",FPT 16 SPORTS
-http://udpxy.ddns.net/udp/225.1.1.94:30120
+http://udpxy.ddns.net/225.1.1.94:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.ml/logo/FPT-Sport.png",FPT 17 SPORT
-http://udpxy.ddns.net/udp/225.1.1.101:30120
+http://udpxy.ddns.net/225.1.1.101:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.ml/logo/FPT-Sport.png",FPT 18 SPORT
-http://udpxy.ddns.net/udp/225.1.1.10:30120
+http://udpxy.ddns.net/225.1.1.10:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.ml/logo/FPT-Sport.png",FPT 19 SPORT
-http://udpxy.ddns.net/udp/225.1.1.12:30120
-
+http://udpxy.ddns.net/225.1.1.12:30120
