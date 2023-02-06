@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://bit.ly/epgviet" UDP FPT
 
 #-------------------VTV-------------------#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://meco.mytv.vn/static/channel/1.png?ver=16" catchup="append" catchup-days="3" catchup-source="https://tivifree.ga/mytv/dvr/?channel=vtv3hd&st=${start}&et=${end}", VTV1 HD
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV TTTT" tvg-logo="https://meco.mytv.vn/static/channel/1.png?ver=16" catchup="append" catchup-days="3" catchup-source="https://tivifree.ga/mytv/dvr/?channel=vtv3hd&st=${start}&et=${end}", VTV1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.sugustv.tk/play/mytv/tv/h/cc34b3a713faf89a751f8540bc501ce1bcbfbc80/210/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://tivifree.ml/logo/VTV1.png", VTV1 HD
