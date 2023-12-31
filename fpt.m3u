@@ -163,11 +163,11 @@ udp://@225.1.2.186:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.ml/logo/TH-HANOI2.png",Hà Nội 2 HD
 #udp://@225.1.1.125:30120
 
-#EXTINF:-1 tvg-id="haiphong" group-title="Địa phương HP" tvg-logo="https://i.imgur.com/StFk4PA.png",THP Hải Phòng
+#EXTINF:-1 tvg-id="haiphong" group-title="Truyền Hình Hải Phòng" group-logo="https://media.thhp.vn/upload/files/avatar/NewFolder/Logo_THP.png" tvg-logo="https://i.imgur.com/StFk4PA.png",Hải Phòng THP
 udp://@225.1.1.44:30120
-#EXTINF:-1 tvg-id="haiphongplus" group-title="Địa phương HP" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ Hải Phòng
+#EXTINF:-1 tvg-id="haiphongplus" group-title="Truyền Hình Hải Phòng" group-logo="https://media.thhp.vn/upload/files/avatar/NewFolder/Logo_THP.png" tvg-logo="https://i.imgur.com/s3yq8AW.png",Hải Phòng THP+
 udp://@225.1.1.113:30120
-#EXTINF:-1 tvg-id="haiphong" group-title="Địa phương HP" tvg-logo="https://i.imgur.com/StFk4PA.png",THP Hải Phòng (HD 8Mbps)
+#EXTINF:-1 tvg-id="haiphong" group-title="Truyền Hình Hải Phòng" group-logo="https://media.thhp.vn/upload/files/avatar/NewFolder/Logo_THP.png" tvg-logo="https://i.imgur.com/StFk4PA.png",Hải Phòng THP+ (FHD 8Mbps)
 udp://@225.1.3.80:30120
 
 
