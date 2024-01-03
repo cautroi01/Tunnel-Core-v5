@@ -4,7 +4,7 @@
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://vpn5g.gq/1.php?obj=VTV1.png", VTV1 HD
 udp://@225.1.2.249:30120
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://tivifree.tk/image.php?obj=VTV2.png", VTV2 HD 
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://vpn5g.gq/1.php?obj=VTV2.png", VTV2 HD 
 udp://@225.1.2.13:30120
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://vpn5g.gq/1.php?obj=VTV3.png", VTV3 HD
 udp://@225.1.2.247:30120
