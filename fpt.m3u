@@ -2,165 +2,165 @@
 
 #-------------------VTV-------------------#
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://tivifree.tk/logo/VTV1.png", VTV1 HD
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://tivifree.tk/image.php?obj=VTV1.png", VTV1 HD
 udp://@225.1.2.249:30120
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://tivifree.tk/logo/VTV2.png", VTV2 HD 
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://tivifree.tk/image.php?obj=VTV2.png", VTV2 HD 
 udp://@225.1.2.13:30120
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://tivifree.tk/logo/VTV3.png", VTV3 HD
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://tivifree.tk/image.php?obj=VTV3.png", VTV3 HD
 udp://@225.1.2.247:30120
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://tivifree.tk/logo/VTV4.png", VTV4 HD
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://tivifree.tk/image.php?obj=VTV4.png", VTV4 HD
 udp://@225.1.2.20:30120
-#EXTINF:-1 tvg-id="vtv5hd"  group-title="VTV" tvg-logo="https://tivifree.tk/logo/VTV5.png", VTV5 HD
+#EXTINF:-1 tvg-id="vtv5hd"  group-title="VTV" tvg-logo="https://tivifree.tk/image.php?obj=VTV5.png", VTV5 HD
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://tivifree.tk/logo/VTVCanTho.png", VTV Cần Thơ HD
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://tivifree.tk/image.php?obj=VTVCanTho.png", VTV Cần Thơ HD
 udp://@225.1.2.245:30120
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://tivifree.tk/logo/VTV7.png", VTV7 HD
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://tivifree.tk/image.php?obj=VTV7.png", VTV7 HD
 udp://@225.1.2.96:30120
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://tivifree.tk/logo/VTV8.png", VTV8 HD
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://tivifree.tk/image.php?obj=VTV8.png", VTV8 HD
 udp://@225.1.2.166:30120
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://tivifree.tk/logo/VTV9.png", VTV9 HD
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://tivifree.tk/image.php?obj=VTV9.png", VTV9 HD
 udp://@225.1.1.128:30120
 
 # ------------------VTVCAB ---------------------#
 
 # -------------------Kplus-------------------#
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://tivifree.tk/logo/KplusCine.png", K+CINE HD
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://tivifree.tk/image.php?obj=KplusCine.png", K+CINE HD
 #udp://@225.1.1.5:30120
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://tivifree.tk/logo/KplusLife.png", K+LIFE HD
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://tivifree.tk/image.php?obj=KplusLife.png", K+LIFE HD
 #udp://@225.1.1.6:30120
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://tivifree.tk/logo/KplusSport1.png", K+SPORT1 HD
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://tivifree.tk/image.php?obj=KplusSport1.png", K+SPORT1 HD
 #udp://@225.1.1.73:30120
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://tivifree.tk/logo/KplusSport2.png", K+SPORT2 HD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://tivifree.tk/image.php?obj=KplusSport2.png", K+SPORT2 HD
 #udp://@225.1.1.77:30120
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://tivifree.tk/logo/KplusKids.png", K+kids HD
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://tivifree.tk/image.php?obj=KplusKids.png", K+kids HD
 #udp://@225.1.1.76:30120
 
 #-------------------VTC/VOV-------------------#
-#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://tivifree.tk/logo/VTC1.png", VTC1 HD 
+#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://tivifree.tk/image.php?obj=VTC1.png", VTC1 HD 
 udp://@225.1.2.254:30120
-#EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://tivifree.tk/logo/VTC2.png",VTC2
+#EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://tivifree.tk/image.php?obj=VTC2.png",VTC2
 udp://@225.1.2.202:30120
-#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://tivifree.tk/logo/VTC3.png",VTC3 HD
+#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://tivifree.tk/image.php?obj=VTC3.png",VTC3 HD
 udp://@225.1.2.251:30120
-#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://tivifree.tk/logo/VTC4.png",VTC4 HD
+#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://tivifree.tk/image.php?obj=VTC4.png",VTC4 HD
 udp://@225.1.2.200:30120
-#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://tivifree.tk/logo/VTC5.png",VTC5
+#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://tivifree.tk/image.php?obj=VTC5.png",VTC5
 udp://@225.1.2.199:30120
-#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://tivifree.tk/logo/VTC6.png",VTC6
+#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://tivifree.tk/image.php?obj=VTC6.png",VTC6
 udp://@225.1.2.198:30120
-#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://tivifree.tk/logo/VTC7.png",VTC7 - Today TV
+#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://tivifree.tk/image.php?obj=VTC7.png",VTC7 - Today TV
 udp://@225.1.2.197:30120
-#EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://tivifree.tk/logo/VTC8.png",VTC8
+#EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://tivifree.tk/image.php?obj=VTC8.png",VTC8
 udp://@225.1.2.196:30120
-#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://tivifree.tk/logo/VTC9.png",VTC9 HD
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://tivifree.tk/image.php?obj=VTC9.png",VTC9 HD
 udp://@225.1.2.195:30120
-#EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" tvg-logo="https://tivifree.tk/logo/VTC10.png",VTC10 HD
+#EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" tvg-logo="https://tivifree.tk/image.php?obj=VTC10.png",VTC10 HD
 udp://@225.1.2.194:30120
-#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://tivifree.tk/logo/VTC11.png",VTC11 - Kids & Family TV
+#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://tivifree.tk/image.php?obj=VTC11.png",VTC11 - Kids & Family TV
 udp://@225.1.2.193:30120
-#EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://tivifree.tk/logo/VTC12.png",VTC12
+#EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://tivifree.tk/image.php?obj=VTC12.png",VTC12
 udp://@225.1.2.51:30120
-#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://tivifree.tk/logo/VTC13.png",VTC13 HD
+#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://tivifree.tk/image.php?obj=VTC13.png",VTC13 HD
 udp://@225.1.2.250:30120
-#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://tivifree.tk/logo/VTC14.png",VTC14 HD
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://tivifree.tk/image.php?obj=VTC14.png",VTC14 HD
 udp://@225.1.2.88:30120
-#EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://tivifree.tk/logo/VTC16.png",VTC16 HD
+#EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://tivifree.tk/image.php?obj=VTC16.png",VTC16 HD
 udp://@225.1.2.190:30120
-#EXTINF:-1 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://tivifree.tk/logo/ThoiSu-VOV.png",VOV TV
+#EXTINF:-1 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://tivifree.tk/image.php?obj=ThoiSu-VOV.png",VOV TV
 udp://@225.1.2.171:30120
 
 #-------------------HTV/HTVC-------------------#
-#EXTINF:-1 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/logo/HTV1.png",HTV1
+#EXTINF:-1 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/image.php?obj=HTV1.png",HTV1
 udp://@225.1.1.180:30120
-#EXTINF:-1 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/logo/HTV2.png",HTV2 HD
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/image.php?obj=HTV2.png",HTV2 HD
 udp://@225.1.1.193:30120
-#EXTINF:-1 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/logo/HTV3.png",HTV3
+#EXTINF:-1 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/image.php?obj=HTV3.png",HTV3
 udp://@225.1.1.178:30120
-#EXTINF:-1 tvg-id="htv4" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/logo/HTVKEY.png",HTV Key
+#EXTINF:-1 tvg-id="htv4" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/image.php?obj=HTVKEY.png",HTV Key
 udp://@225.1.1.177:30120
-#EXTINF:-1 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/logo/HTV7.png",HTV7 HD
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/image.php?obj=HTV7.png",HTV7 HD
 udp://@225.1.1.192:30120
-#EXTINF:-1 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/logo/HTV9.png",HTV9 HD
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/image.php?obj=HTV9.png",HTV9 HD
 udp://@225.1.1.190:30120
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/logo/HTVTHETHAO.png",HTV THỂ THAO HD
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/image.php?obj=HTVTHETHAO.png",HTV THỂ THAO HD
 udp://@225.1.1.165:30120
-#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/logo/HCTVCANHAC.png",HTVC Ca Nhạc HD
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/image.php?obj=HCTVCANHAC.png",HTVC Ca Nhạc HD
 udp://@225.1.1.185:30120
-#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/logo/HTVCDLCS.png",HTVC Du lịch Cuộc sống HD
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/image.php?obj=HTVCDLCS.png",HTVC Du lịch Cuộc sống HD
 udp://@225.1.1.166:30120
-#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/logo/HTVCGIADINH.png",HTVC Gia Đình HD
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/image.php?obj=HTVCGIADINH.png",HTVC Gia Đình HD
 udp://@225.1.1.170:30120
-#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/logo/HTVCPHIM.png",HTVC Phim HD
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/image.php?obj=HTVCPHIM.png",HTVC Phim HD
 udp://@225.1.1.184:30120
-#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/logo/HTVCPHUNU.png",HTVC Phụ Nữ HD
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/image.php?obj=HTVCPHUNU.png",HTVC Phụ Nữ HD
 udp://@225.1.1.171:30120
-#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/logo/HTVCTHUANVIET.png",HTVC Thuần Việt 
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/image.php?obj=HTVCTHUANVIET.png",HTVC Thuần Việt 
 udp://@225.1.1.174:30120
-#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/logo/HTVCThuanVietHD.png",HTVC Thuần Việt HD 
+#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/image.php?obj=HTVCThuanVietHD.png",HTVC Thuần Việt HD 
 udp://@225.1.1.186:30120
-#EXTINF:-1 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/logo/HTVCPlus.png",HTVC Plus HD
+#EXTINF:-1 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://tivifree.tk/image.php?obj=HTVCPlus.png",HTVC Plus HD
 udp://@225.1.1.181:30120
 
 #..............THVL...........#
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://tivifree.tk/logo/TH-THVL1.png", Vĩnh Long 1 HD 
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://tivifree.tk/image.php?obj=TH-THVL1.png", Vĩnh Long 1 HD 
 udp://@225.1.1.155:30120
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://tivifree.tk/logo/TH-THVL2.png", Vĩnh Long 2 HD
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://tivifree.tk/image.php?obj=TH-THVL2.png", Vĩnh Long 2 HD
 udp://@225.1.1.154:30120
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://tivifree.tk/logo/TH-THVL3.png", Vĩnh Long 3 HD 
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://tivifree.tk/image.php?obj=TH-THVL3.png", Vĩnh Long 3 HD 
 udp://@225.1.1.235:30120
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://tivifree.tk/logo/TH-THVL4.png", Vĩnh Long 4 HD
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Truyền Hình Vĩnh Long" tvg-logo="https://tivifree.tk/image.php?obj=TH-THVL4.png", Vĩnh Long 4 HD
 udp://@225.1.2.25:30120
 
 #-------------------Thiết yếu-------------------#
-#EXTINF:-1 tvg-id="antvhd" group-title="Kênh TH Thiết Yếu" tvg-logo="https://tivifree.tk/logo/ThoiSu-ANTV.png",ANTV - An Ninh TV HD
+#EXTINF:-1 tvg-id="antvhd" group-title="Kênh TH Thiết Yếu" tvg-logo="https://tivifree.tk/image.php?obj=ThoiSu-ANTV.png",ANTV - An Ninh TV HD
 udp://@225.1.2.169:30120
-#EXTINF:-1 tvg-id="nhandan" group-title="Kênh TH Thiết Yếu" tvg-logo="https://tivifree.tk/logo/ThoiSu-nhandan.png",Nhân Dân TV HD
+#EXTINF:-1 tvg-id="nhandan" group-title="Kênh TH Thiết Yếu" tvg-logo="https://tivifree.tk/image.php?obj=ThoiSu-nhandan.png",Nhân Dân TV HD
 udp://@225.1.1.91:30120
-#EXTINF:-1 tvg-id="quochoi" group-title="Kênh TH Thiết Yếu" tvg-logo="https://tivifree.tk/logo/ThoiSu-QUOCHOI.png",Quốc Hội TV HD
+#EXTINF:-1 tvg-id="quochoi" group-title="Kênh TH Thiết Yếu" tvg-logo="https://tivifree.tk/image.php?obj=ThoiSu-QUOCHOI.png",Quốc Hội TV HD
 udp://@225.1.2.148:30120
-#EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh TH Thiết Yếu" tvg-logo="https://tivifree.tk/logo/ThoiSu-QPVN.png",QPTV - Quốc Phòng VN HD
+#EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh TH Thiết Yếu" tvg-logo="https://tivifree.tk/image.php?obj=ThoiSu-QPVN.png",QPTV - Quốc Phòng VN HD
 udp://@225.1.2.217:30120
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="Kênh TH Thiết Yếu" tvg-logo="https://tivifree.tk/logo/ThoiSu-VNEWS.png",VNews - TTXVN HD
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="Kênh TH Thiết Yếu" tvg-logo="https://tivifree.tk/image.php?obj=ThoiSu-VNEWS.png",VNews - TTXVN HD
 udp://@225.1.1.43:30120
-#EXTINF:-1 group-title="Kênh TH Thiết Yếu" tvg-logo="https://tivifree.tk/logo/ThoiSu-AnVien.png",An Viên HD
+#EXTINF:-1 group-title="Kênh TH Thiết Yếu" tvg-logo="https://tivifree.tk/image.php?obj=ThoiSu-AnVien.png",An Viên HD
 udp://@225.1.2.189:30120
 
 #-------------------HBO-------------------#
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://tivifree.tk/logo/QT-cinemax.png",Cinemax HD
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://tivifree.tk/image.php?obj=QT-cinemax.png",Cinemax HD
 udp://@225.1.2.86:30120
-#EXTINF:-1 tvg-id="hbohd" group-title="HBO" tvg-logo="https://tivifree.tk/logo/QT-hbo.png",HBO HD
+#EXTINF:-1 tvg-id="hbohd" group-title="HBO" tvg-logo="https://tivifree.tk/image.php?obj=QT-hbo.png",HBO HD
 udp://@225.1.4.90:30120
 
 #-------------------Địa phương------------------#
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-laocai.png",Lào Cai
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-laocai.png",Lào Cai
 udp://@225.1.1.119:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-dienbien.png",Điện Biên
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-dienbien.png",Điện Biên
 udp://@225.1.1.74:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-TUYENQUANG.png",Tuyên Quang
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-TUYENQUANG.png",Tuyên Quang
 udp://@225.1.2.188:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-thainguyen.png",Thái Nguyên
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-thainguyen.png",Thái Nguyên
 udp://@225.1.2.179:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-hoabinh.png",Hòa Bình
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-hoabinh.png",Hòa Bình
 udp://@225.1.2.168:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-phutho.png",Phú Thọ
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-phutho.png",Phú Thọ
 udp://@225.1.2.165:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-bacgiang.png",Bắc Giang
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-bacgiang.png",Bắc Giang
 udp://@225.1.1.164:30120
-#EXTINF:-1 group-title="Địa phương"  tvg-logo="https://tivifree.tk/logo/TH-langson.png",Lạng Sơn
+#EXTINF:-1 group-title="Địa phương"  tvg-logo="https://tivifree.tk/image.php?obj=TH-langson.png",Lạng Sơn
 udp://@225.1.1.160:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-caobang1.png",Cao Bằng
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-caobang1.png",Cao Bằng
 udp://@225.1.1.102:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-baccan.png",Bắc Kạn
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-baccan.png",Bắc Kạn
 udp://@225.1.1.126:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-quangninh1.png",Quảng Ninh 1
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-quangninh1.png",Quảng Ninh 1
 udp://@225.1.2.181:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-quangninh3.png",Quảng Ninh 3
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-quangninh3.png",Quảng Ninh 3
 udp://@225.1.2.180:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-bacninh.png",Bắc Ninh
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-bacninh.png",Bắc Ninh
 udp://@225.1.1.40:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-HANOI1.png",Hà Nội 1 HD
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-HANOI1.png",Hà Nội 1 HD
 udp://@225.1.2.186:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-HANOI2.png",Hà Nội 2 HD
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-HANOI2.png",Hà Nội 2 HD
 #udp://@225.1.1.125:30120
 
 #EXTINF:-1 tvg-id="haiphong" group-title="Truyền Hình Hải Phòng" group-logo="https://media.thhp.vn/upload/files/avatar/NewFolder/Logo_THP.png" tvg-logo="https://i.imgur.com/StFk4PA.png",Hải Phòng THP
@@ -171,263 +171,264 @@ udp://@225.1.1.113:30120
 udp://@225.1.3.80:30120
 
 
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-ninhbinh.png",Ninh Bình
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-ninhbinh.png",Ninh Bình
 udp://@225.1.2.185:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-nghean.png",Nghệ An
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-nghean.png",Nghệ An
 udp://@225.1.2.183:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-hatinh.png",Hà Tĩnh
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-hatinh.png",Hà Tĩnh
 udp://@225.1.1.75:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-quangtri.png",Quảng Trị
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-quangtri.png",Quảng Trị
 udp://@225.1.1.117:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-danang1.png",Đà Nẵng 1
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-danang1.png",Đà Nẵng 1
 udp://@225.1.1.147:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-danang2.png",Đà Nẵng 2
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-danang2.png",Đà Nẵng 2
 udp://@225.1.1.146:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-quangnam.png",Quảng Nam
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-quangnam.png",Quảng Nam
 udp://@225.1.2.50:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-QuangNgai.png",Quảng Ngãi
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-QuangNgai.png",Quảng Ngãi
 udp://@225.1.2.174:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-binhdinh.png",Bình Định
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-binhdinh.png",Bình Định
 udp://@225.1.1.145:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-PhuYen.png",Phú Yên
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-PhuYen.png",Phú Yên
 udp://@225.1.2.58:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-khanhhoa.png",Khánh Hòa
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-khanhhoa.png",Khánh Hòa
 udp://@225.1.1.133:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-binhthuan.png",Bình Thuận
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-binhthuan.png",Bình Thuận
 udp://@225.1.1.124:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-kontum.png",Kon Tum
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-kontum.png",Kon Tum
 udp://@225.1.1.36:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-gialai.png",Gia Lai
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-gialai.png",Gia Lai
 udp://@225.1.2.176:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-LAMDONG.png",Lâm Đồng
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-LAMDONG.png",Lâm Đồng
 udp://@225.1.2.177:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-BTV1.png",Bình Dương 1
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-BTV1.png",Bình Dương 1
 udp://@225.1.1.150:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-BTV2.png",Bình Dương 2
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-BTV2.png",Bình Dương 2
 udp://@225.1.1.149:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-BTV3.png",Bình Dương 3
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-BTV3.png",Bình Dương 3
 udp://@225.1.2.22:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-BTV4.png",Bình Dương 4
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-BTV4.png",Bình Dương 4
 udp://@225.1.1.29:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-dongnai1.png",Đồng Nai 1
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-dongnai1.png",Đồng Nai 1
 udp://@225.1.1.152:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-dongnai2.png",Đồng Nai 2
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-dongnai2.png",Đồng Nai 2
 udp://@225.1.1.151:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-TAYNINH11.png",Tây Ninh
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-TAYNINH11.png",Tây Ninh
 udp://@225.1.1.130:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-BRVT.png",Vũng Tàu
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-BRVT.png",Vũng Tàu
 udp://@225.1.2.175:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-tiengiang.png",Tiền Giang
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-tiengiang.png",Tiền Giang
 udp://@225.1.2.170:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-travinh.png",Trà Vinh
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-travinh.png",Trà Vinh
 udp://@225.1.2.172:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-HauGiang.png",Hậu Giang
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-HauGiang.png",Hậu Giang
 udp://@225.1.1.157:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-kiengiang.png",Kiên Giang
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-kiengiang.png",Kiên Giang
 udp://@225.1.2.182:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-baclieutv.png",Bạc Liêu
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-baclieutv.png",Bạc Liêu
 udp://@225.1.1.61:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-camau.png",Cà Mau
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-camau.png",Cà Mau
 udp://@225.1.1.104:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-cantho.png",Cần Thơ
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-cantho.png",Cần Thơ
 udp://@225.1.1.132:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-THDT.png",Đồng Tháp
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-THDT.png",Đồng Tháp
 udp://@225.1.1.163:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-THDT-MienTay.png",THĐT2 Miền Tây HD
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-THDT-MienTay.png",THĐT2 Miền Tây HD
 udp://@225.1.1.210:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-yenbai.png",Yên Bái
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-yenbai.png",Yên Bái
 udp://@225.1.1.39:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-laichau.png",Lai Châu
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-laichau.png",Lai Châu
 udp://@225.1.2.36:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-sonla.png",Sơn La
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-sonla.png",Sơn La
 udp://@225.1.1.98:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-hagiang.png",Hà Giang
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-hagiang.png",Hà Giang
 udp://@225.1.1.62:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-hanam.png",Hà Nam
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-hanam.png",Hà Nam
 udp://@225.1.1.63:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-haiduong.png",Hải Dương
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-haiduong.png",Hải Dương
 udp://@225.1.1.158:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-hungyen.png",Hưng Yên
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-hungyen.png",Hưng Yên
 udp://@225.1.1.118:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-namdinh.png",Nam Định
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-namdinh.png",Nam Định
 udp://@225.1.1.120:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-thaibinh.png",Thái Bình
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-thaibinh.png",Thái Bình
 udp://@225.1.1.99:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-vinhphuc.png",Vĩnh Phúc
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-vinhphuc.png",Vĩnh Phúc
 udp://@225.1.2.99:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-thanhhoa.png",Thanh Hóa
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-thanhhoa.png",Thanh Hóa
 udp://@225.1.2.184:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-quangbinh.png",Quảng Bình
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-quangbinh.png",Quảng Bình
 udp://@225.1.2.164:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-hue.png",Huế
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-hue.png",Huế
 udp://@225.1.1.161:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-ninhthuan.png",Ninh Thuận
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-ninhthuan.png",Ninh Thuận
 udp://@225.1.2.178:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-daklak.png",Đắk Lắk
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-daklak.png",Đắk Lắk
 udp://@225.1.1.64:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-BPTV1.png",Bình Phước 1
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-BPTV1.png",Bình Phước 1
 udp://@225.1.2.23:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-BPTV2.png",Bình Phước 2
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-BPTV2.png",Bình Phước 2
 udp://@225.1.2.38:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-BTV6.png",Bình Dương
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-BTV6.png",Bình Dương
 udp://@225.1.1.223:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-longan.png",Long An
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-longan.png",Long An
 udp://@225.1.1.162:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-AnGiang.png",An Giang
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-AnGiang.png",An Giang
 udp://@225.1.2.173:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-bentre.png",Bến Tre
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-bentre.png",Bến Tre
 udp://@225.1.1.156:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-soctrang1.png",Sóc Trăng
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/image.php?obj=TH-soctrang1.png",Sóc Trăng
 udp://@225.1.1.159:30120
 
 #-------------------Quốc tế-------------------#
-#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-AnimalPlanet.png",Animal Planet HD
+#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-AnimalPlanet.png",Animal Planet HD
 udp://@225.1.1.231:30120
-#EXTINF:-1 tvg-id="animaxhd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-Animax.png",Animax HD
+#EXTINF:-1 tvg-id="animaxhd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-Animax.png",Animax HD
 udp://@225.1.1.135:30120
-#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế"  tvg-logo="https://tivifree.tk/logo/QT-afn.png",Asian Food Network HD
+#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế"  tvg-logo="https://tivifree.tk/image.php?obj=QT-afn.png",Asian Food Network HD
 udp://@225.1.1.198:30120
-#EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-AXN.png",AXN HD
+#EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-AXN.png",AXN HD
 udp://@225.1.2.225:30120
-#EXTINF:-1 tvg-id="babytvhd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-BabyTV.png",Baby TV HD
+#EXTINF:-1 tvg-id="babytvhd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-BabyTV.png",Baby TV HD
 udp://@225.1.2.146:30120
-#EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-BBCCbeebies.png",BBC CbeeBies HD
+#EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-BBCCbeebies.png",BBC CbeeBies HD
 udp://@225.1.1.134:30120
-#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-BBCEarth.png",BBC Earth HD
+#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-BBCEarth.png",BBC Earth HD
 udp://@225.1.2.24:30120
-#EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-BOOMERANG.png",Boomerang HD
+#EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-BOOMERANG.png",Boomerang HD
 udp://@225.1.1.138:30120
-#EXTINF:-1 tvg-id="blueant" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-BlueAnt.png",Blue Ant Entertainment HD
+#EXTINF:-1 tvg-id="blueant" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-BlueAnt.png",Blue Ant Entertainment HD
 udp://@225.1.1.203:30120
-#EXTINF:-1 tvg-id="BlueAntExt" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-BlueAntExt.png",Blue Ant Extreme HD
+#EXTINF:-1 tvg-id="BlueAntExt" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-BlueAntExt.png",Blue Ant Extreme HD
 udp://@225.1.1.204:30120
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-CartoonNetwork.png",Cartoon Network HD
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-CartoonNetwork.png",Cartoon Network HD
 udp://@225.1.2.231:30120
-#EXTINF:-1 tvg-id="davincihd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-DaVinci.png",Da Vinci HD
+#EXTINF:-1 tvg-id="davincihd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-DaVinci.png",Da Vinci HD
 udp://@225.1.1.197:30120
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-DiscoveryAsiaHD.png",Discovery Asia HD
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-DiscoveryAsiaHD.png",Discovery Asia HD
 udp://@225.1.2.223:30120
-#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-Discovery.png",Discovery Channel HD
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-Discovery.png",Discovery Channel HD
 udp://@225.1.1.238:30120
-#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-DreamWorksChannelAsia.png",Dreamworks Channel Asia HD
+#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-DreamWorksChannelAsia.png",Dreamworks Channel Asia HD
 udp://@225.1.1.136:30120
-#EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-DW.png",DW HD
+#EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-DW.png",DW HD
 udp://@225.1.1.46:30120
-#EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-kix.png",KIX HD
+#EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-kix.png",KIX HD
 udp://@225.1.2.144:30120
-#EXTINF:-1 tvg-id="ngchd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-NationalGeographic.png",National Geographic HD
+#EXTINF:-1 tvg-id="ngchd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-NationalGeographic.png",National Geographic HD
 udp://@225.1.2.235:30120
-#EXTINF:-1 tvg-id="ngwhd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-NatGeoWild.png",Nat Geo Wild HD
+#EXTINF:-1 tvg-id="ngwhd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-NatGeoWild.png",Nat Geo Wild HD
 udp://@225.1.1.211:30120
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-BBCLifestyle.png",BBC Lifestyle HD
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-BBCLifestyle.png",BBC Lifestyle HD
 udp://@225.1.2.52:30120
-#EXTINF:-1 tvg-id="NHKWorld" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-NHKWorld.png",NHK World HD
+#EXTINF:-1 tvg-id="NHKWorld" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-NHKWorld.png",NHK World HD
 udp://@225.1.1.47:30120
-#EXTINF:-1 tvg-id="outdoorfhd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-Outdoor.png",Outdoor Channel HD
+#EXTINF:-1 tvg-id="outdoorfhd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-Outdoor.png",Outdoor Channel HD
 udp://@225.1.2.215:30120
-#EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-TCL.png",TLC HD
+#EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-TCL.png",TLC HD
 udp://@225.1.1.236:30120
-#EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-WarnerTV.png",Warner TV HD
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-WarnerTV.png",Warner TV HD
 udp://@225.1.1.139:30120
-#EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-CNN.png",CNN HD
+#EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-CNN.png",CNN HD
 udp://@225.1.1.242:30120
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-CMW.png",Cinema World HD
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-CMW.png",Cinema World HD
 udp://@225.1.1.142:30120
-#EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-ABCAusatralia.png",ABC Australia HD
+#EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-ABCAusatralia.png",ABC Australia HD
 udp://@225.1.2.21:30120
-#EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-Arirang.png",Arirang
+#EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-Arirang.png",Arirang
 udp://@225.1.1.201:30120
-#EXTINF:-1 tvg-id="babyfirst" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-babyfirst.png",Baby First
+#EXTINF:-1 tvg-id="babyfirst" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-babyfirst.png",Baby First
 udp://@225.1.1.137:30120
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-bbcworldnews.png",BBC World News HD
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-bbcworldnews.png",BBC World News HD
 udp://@225.1.2.74:30120
-#EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-CNA.png",CNA HD
+#EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-CNA.png",CNA HD
 udp://@225.1.1.202:30120
-#EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-CNBC.png",CNBC
+#EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-CNBC.png",CNBC
 udp://@225.1.1.227:30120
-#EXTINF:-1 tvg-id="france24eng"  group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-France24.png",France 24 HD
+#EXTINF:-1 tvg-id="france24eng"  group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-France24.png",France 24 HD
 udp://@225.1.2.211:30120
-#EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-KBSWorld.png",KBS World HD
+#EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-KBSWorld.png",KBS World HD
 udp://@225.1.1.196:30120
-#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/logo/QT-TV5Monde.png",TV5MONDE ASIE HD
+#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://tivifree.tk/image.php?obj=QT-TV5Monde.png",TV5MONDE ASIE HD
 udp://@225.1.1.200:30120
 
 #------------------ Mua sắm -------------------#
 #EXTINF:-1 group-title="Mua Sắm",Đồng Nai 9 Sky Shop
 #udp://@225.1.1.153:30120
-#EXTINF:-1 tvg-id="vtvcab11hd" group-title="Mua Sắm" tvg-logo="https://tivifree.tk/logo/VTVCab11.png",VTVCab11 GS SHOP
+#EXTINF:-1 tvg-id="vtvcab11hd" group-title="Mua Sắm" tvg-logo="https://tivifree.tk/image.php?obj=VTVCab11.png",VTVCab11 GS SHOP
 udp://@225.1.2.167:30120
-#EXTINF:-1 tvg-id="vtvcab13hd" group-title="Mua Sắm" tvg-logo="https://tivifree.tk/logo/VTVCab13.png",VTVCab13 VTV Hyundai Homeshopping
+#EXTINF:-1 tvg-id="vtvcab13hd" group-title="Mua Sắm" tvg-logo="https://tivifree.tk/image.php?obj=VTVCab13.png",VTVCab13 VTV Hyundai Homeshopping
 udp://@225.1.1.122:30120
-#EXTINF:-1 tvg-id="vtvcab13hd" group-title="Mua Sắm" tvg-logo="https://tivifree.tk/logo/VTVCab13.png",VTVCab13 VTV Hyundai Homeshopping
+#EXTINF:-1 tvg-id="vtvcab13hd" group-title="Mua Sắm" tvg-logo="https://tivifree.tk/image.php?obj=VTVCab13.png",VTVCab13 VTV Hyundai Homeshopping
 udp://@225.1.4.79:30120
-#EXTINF:-1 tvg-id="sctv10hd" group-title="Mua Sắm" tvg-logo="https://tivifree.tk/logo/sctv10.png",SCTV10 Home Shopping
+#EXTINF:-1 tvg-id="sctv10hd" group-title="Mua Sắm" tvg-logo="https://tivifree.tk/image.php?obj=sctv10.png",SCTV10 Home Shopping
 udp://@225.1.2.37:30120
-#EXTINF:-1 tvg-id="htvcgsshop" group-title="Mua Sắm" tvg-logo="https://tivifree.tk/logo/HTVCVGSSHOP.png",HTVC VGS Home Shopping
+#EXTINF:-1 tvg-id="htvcgsshop" group-title="Mua Sắm" tvg-logo="https://tivifree.tk/image.php?obj=HTVCVGSSHOP.png",HTVC VGS Home Shopping
 udp://@225.1.1.172:30120
-#EXTINF:-1 tvg-id="htvcgsshop" group-title="Mua Sắm" tvg-logo="https://tivifree.tk/logo/HTVCVGSSHOP.png",HTVC VGS Home Shopping
+#EXTINF:-1 tvg-id="htvcgsshop" group-title="Mua Sắm" tvg-logo="https://tivifree.tk/image.php?obj=HTVCVGSSHOP.png",HTVC VGS Home Shopping
 udp://@225.1.4.89:30120
-#EXTINF:-1 tvg-id="btv6quehuong" group-title="Mua Sắm" tvg-logo="https://tivifree.tk/logo/BTV6QUEHUONG.png",BTV6 Quê Hương Homeshopping
+#EXTINF:-1 tvg-id="btv6quehuong" group-title="Mua Sắm" tvg-logo="https://tivifree.tk/image.php?obj=BTV6QUEHUONG.png",BTV6 Quê Hương Homeshopping
 udp://@225.1.1.90:30120
-#EXTINF:-1 tvg-id="btv11top" group-title="Mua Sắm" tvg-logo="https://tivifree.tk/logo/BTV11TOP.png",BTV11 TOP Home Shopping
+#EXTINF:-1 tvg-id="btv11top" group-title="Mua Sắm" tvg-logo="https://tivifree.tk/image.php?obj=BTV11TOP.png",BTV11 TOP Home Shopping
 udp://@225.1.1.224:30120
-#EXTINF:-1 tvg-id="btv11top" group-title="Mua Sắm" tvg-logo="https://tivifree.tk/logo/BTV11TOP.png",BTV11 TOP Home Shopping
+#EXTINF:-1 tvg-id="btv11top" group-title="Mua Sắm" tvg-logo="https://tivifree.tk/image.php?obj=BTV11TOP.png",BTV11 TOP Home Shopping
 udp://@225.1.4.84:30120
 
 #-------------------Other-------------------#
-#EXTINF:-1 tvg-id="youtv" group-title="Other" tvg-logo="https://tivifree.tk/logo/TH-hanoicab2.png",YouTV
+#EXTINF:-1 tvg-id="youtv" group-title="Other" tvg-logo="https://tivifree.tk/image.php?obj=TH-hanoicab2.png",YouTV
 udp://@225.1.1.207:30120
-#EXTINF:-1 tvg-id="mtv" group-title="Other" tvg-logo="https://tivifree.tk/logo/MTV.png",MTV
+#EXTINF:-1 tvg-id="mtv" group-title="Other" tvg-logo="https://tivifree.tk/image.php?obj=MTV.png",MTV
 udp://@225.1.1.245:30120
-#EXTINF:-1 tvg-id="sctv6hd" group-title="Other" tvg-logo="https://tivifree.tk/logo/sctv6.png",SCTV6 HD
+#EXTINF:-1 tvg-id="sctv6hd" group-title="Other" tvg-logo="https://tivifree.tk/image.php?obj=sctv6.png",SCTV6 HD
 udp://@225.1.1.188:30120
 
 #-------------------FPT Service-------------------#
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://tivifree.tk/logo/FPTService.png",FPT Giới Thiệu Chương Trình
+#EXTINF:-1 group-title="FPT Service" tvg-logo="https://tivifree.tk/image.php?obj=FPTService.png",FPT Giới Thiệu Chương Trình
 udp://@225.1.1.2:30120
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://tivifree.tk/logo/FPTService.png",Pladio
+#EXTINF:-1 group-title="FPT Service" tvg-logo="https://tivifree.tk/image.php?obj=FPTService.png",Pladio
 udp://@225.1.2.244:30120
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://tivifree.tk/logo/FPTService.png",Quảng cáo 1
+#EXTINF:-1 group-title="FPT Service" tvg-logo="https://tivifree.tk/image.php?obj=FPTService.png",Quảng cáo 1
 udp://@225.1.1.123:30120
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://tivifree.tk/logo/FPTService.png",Quảng cáo 2
+#EXTINF:-1 group-title="FPT Service" tvg-logo="https://tivifree.tk/image.php?obj=FPTService.png",Quảng cáo 2
 udp://@225.1.1.127:30120
 
 #------------------Sự Kiện thể thao------------------#
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/logo/FPT-Sport.png",FPT 1 SPORTS
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/image.php?obj=FPT-Sport.png",FPT 1 SPORTS
 udp://@225.1.1.31:30120
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/logo/FPT-Sport.png",FPT 2 SPORTS
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/image.php?obj=FPT-Sport.png",FPT 2 SPORTS
 udp://@225.1.1.28:30120
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/logo/FPT-Sport.png",FPT 3 SPORTS
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/image.php?obj=FPT-Sport.png",FPT 3 SPORTS
 udp://@225.1.1.52:30120
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/logo/FPT-Sport.png",FPT 4 SPORTS
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/image.php?obj=FPT-Sport.png",FPT 4 SPORTS
 udp://@225.1.1.54:30120
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/logo/FPT-Sport.png",FPT 5 SPORTS
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/image.php?obj=FPT-Sport.png",FPT 5 SPORTS
 udp://@225.1.1.50:30120
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/logo/FPT-Sport.png",FPT 6 SPORTS
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/image.php?obj=FPT-Sport.png",FPT 6 SPORTS
 udp://@225.1.1.53:30120
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/logo/FPT-Sport.png",FPT 7 SPORTS
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/image.php?obj=FPT-Sport.png",FPT 7 SPORTS
 udp://@225.1.1.51:30120
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/logo/FPT-Sport.png",FPT 8 SPORTS
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/image.php?obj=FPT-Sport.png",FPT 8 SPORTS
 udp://@225.1.1.48:30120
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/logo/FPT-Sport.png",FPT 9 SPORTS
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/image.php?obj=FPT-Sport.png",FPT 9 SPORTS
 udp://@225.1.1.49:30120
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/logo/FPT-Sport.png",FPT 10 SPORTS
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/image.php?obj=FPT-Sport.png",FPT 10 SPORTS
 udp://@225.1.1.55:30120
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/logo/FPT-Sport.png",FPT 11 SPORTS
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/image.php?obj=FPT-Sport.png",FPT 11 SPORTS
 udp://@225.1.1.27:30120
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/logo/FPT-Sport.png",FPT 12 SPORTS
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/image.php?obj=FPT-Sport.png",FPT 12 SPORTS
 udp://@225.1.1.56:30120
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/logo/FPT-Sport.png",FPT 13 SPORTS
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/image.php?obj=FPT-Sport.png",FPT 13 SPORTS
 udp://@225.1.1.100:30120
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/logo/FPT-Sport.png",FPT 14 SPORTS
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/image.php?obj=FPT-Sport.png",FPT 14 SPORTS
 udp://@225.1.1.58:30120
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/logo/FPT-Sport.png",FPT 15 SPORTS
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/image.php?obj=FPT-Sport.png",FPT 15 SPORTS
 udp://@225.1.1.95:30120
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/logo/FPT-Sport.png",FPT 16 SPORTS
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/image.php?obj=FPT-Sport.png",FPT 16 SPORTS
 udp://@225.1.1.94:30120
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/logo/FPT-Sport.png",FPT 17 SPORT
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/image.php?obj=FPT-Sport.png",FPT 17 SPORT
 udp://@225.1.1.101:30120
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/logo/FPT-Sport.png",FPT 18 SPORT
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/image.php?obj=FPT-Sport.png",FPT 18 SPORT
 udp://@225.1.1.10:30120
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/logo/FPT-Sport.png",FPT 19 SPORT
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://tivifree.tk/image.php?obj=FPT-Sport.png",FPT 19 SPORT
 udp://@225.1.1.12:30120
+
