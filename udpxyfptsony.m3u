@@ -2,7 +2,6 @@
 
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://tivifree.ml/logo/VTV1.png", VTV1 HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
 http://kimthinh.myftp.org:1111/udp/225.1.2.249:30120
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://tivifree.tk/logo/VTV2.png", VTV2 HD
 http://kimthinh.myftp.org:1111/udp/225.1.2.13:30120
