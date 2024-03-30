@@ -161,7 +161,7 @@ http://kimthinh.myftp.org:1111/udp/225.1.1.40:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-HANOI1.png",Hà Nội 1 HD
 http://kimthinh.myftp.org:1111/udp/225.1.2.186:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-HANOI2.png",Hà Nội 2 HD
-#http://kimthinh.myftp.org:1111/udp/225.1.1.125:30120
+http://kimthinh.myftp.org:1111/udp/225.1.1.125:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-haiphong.png",Hải Phòng
 http://kimthinh.myftp.org:1111/udp/225.1.1.44:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://tivifree.tk/logo/TH-ninhbinh.png",Ninh Bình
