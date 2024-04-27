@@ -127,7 +127,7 @@ udp://@225.1.2.189:30120
 
 #-------------------HBO-------------------#
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://tivifree.tk/logo/QT-cinemax.png",Cinemax HD
-udp://@225.1.3.14:30120
+udp://@225.1.2.86:30120
 #EXTINF:-1 tvg-id="hbohd" group-title="HBO" tvg-logo="https://tivifree.tk/logo/QT-hbo.png",HBO HD
 udp://@225.1.4.90:30120
 
