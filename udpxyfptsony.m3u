@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/epgviet" UDP FPT
+#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml" UDP FPT
 
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://tivifree.ml/logo/VTV1.png", VTV1 HD
