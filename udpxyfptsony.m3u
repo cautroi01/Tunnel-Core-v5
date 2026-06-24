@@ -11,6 +11,8 @@ http://kimthinh.myftp.org:1111/udp/225.1.2.247:30120
 http://kimthinh.myftp.org:1111/udp/225.1.2.20:30120
 #EXTINF:-1 tvg-id="vtv5hd"  group-title="VTV" tvg-logo="https://tivifree.kimthinh.site/logo/VTV5.png", VTV5 HD
 http://kimthinh.myftp.org:1111/udp/225.1.1.131:30120
+#EXTINF:-1 tvg-id="vtv6hd"  group-title="VTV" tvg-logo="https://tivifree.kimthinh.site/logo/VTV6.png", VTV6 HD
+http://kimthinh.myftp.org:1111/udp/225.1.2.154:30120
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://tivifree.kimthinh.site/logo/VTVCanTho.png", VTV Cần Thơ HD
 http://kimthinh.myftp.org:1111/udp/225.1.2.245:30120
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://tivifree.kimthinh.site/logo/VTV7.png", VTV7 HD
